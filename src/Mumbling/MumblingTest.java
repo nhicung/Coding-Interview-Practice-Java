@@ -1,4 +1,4 @@
-package Mumbling;
+package mumbling;
 
 import static org.junit.Assert.*;
 

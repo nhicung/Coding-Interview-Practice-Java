@@ -1,4 +1,4 @@
-package Fibonacci;
+package fibonacci;
 
 public class Fibonacci {
 
