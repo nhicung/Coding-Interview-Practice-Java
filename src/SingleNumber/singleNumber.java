@@ -1,4 +1,4 @@
-package SingleNumber;
+package singleNumber;
 
 import java.util.HashMap;
 import java.util.Map;

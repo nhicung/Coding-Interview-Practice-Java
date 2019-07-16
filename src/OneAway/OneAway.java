@@ -1,4 +1,4 @@
-package OneAway;
+package oneAway;
 
 public class OneAway {
 	public static boolean oneEditAway(String first, String second) {

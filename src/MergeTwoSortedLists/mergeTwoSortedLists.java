@@ -1,4 +1,4 @@
-package MergeTwoSortedLists;
+package mergeTwoSortedLists;
 
 public class mergeTwoSortedLists {
 	public class ListNode {
