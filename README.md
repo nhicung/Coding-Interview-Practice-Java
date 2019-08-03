@@ -1,10 +1,10 @@
 # Java-Coding-Practice
 | # | Problems                | Difficulty | 
 | - | ---------               | -----------|
-| 1 | [Fibonnaci](Java-Coding-Practice/src/Fibonacci/)               |            |
+| 1 | [Fibonnaci](/src/Fibonacci/)               |            |
 | 2 | Merge 2 Sorted List     |            |
 | 1 | Move Zeros              |            |
-| 2 | Mumbling                |            |
+| 2 | Mumbling         Java       |            |
 | 1 | One Away                |            |
 | 2 | Roman to Integer        |            |
 | 1 | Single Number           |            |
