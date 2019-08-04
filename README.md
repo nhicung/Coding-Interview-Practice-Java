@@ -2,31 +2,31 @@
 
 A set of coding problems from leetcode.com and codewar.com:
 
-| # | Problems                                                  |
-| - | ---------                                                 | 
-| 1 | [Fibonnaci](/src/Fibonacci/)                              |            
-| 3 | [Merge 2 Sorted Lists](/src/MergeTwoSortedLists/)         |           
-| 4 | [Move Zeros](/src/MoveZero/)                              |               
-| 5 | [Mumbling](/src/Mumbling/)                                |            
-| 6 | [One Away](/src/OneAway/)                                 |            
-| 7 | [Roman to Integer](/src/RomanToInteger)                   |            
-| 8 | [Single Number](/src/SingleNumber)                        |            
-| 9 | [Factorial Trailing Zeros](/src/factorialTrailingZeroes/) |            
-|10 | [Happy Number](/src/happyNumber)                          |            
-|11 | [Linked List Cycle](/src/linkedListCycle/)                |            
-|12 | [Plus One](/src/plusOne/)                                 |            
-|13 | [Power Of Three](/src/powerOfOne/)                        |            
-|14 | [Reverse Integer](/src/reverseInteger/)                   |            
-|15 | [Reverse Linked List](/src/reverseLinkedList)             |            
-|16 | [Robot Return to Origin](/src/robotReturnToOrigin/)       |            
-|17 | [Rotate Array](/src/rotateArray/)                         |            
-|18 | [Sort By Parity](/src/sortByParity/)                      |            
-|19 | [SqrtX](/src/sqrtX/)                                      |            
-|20 | [Symmetric Tree](/src/symmetricTree/)                     |                     
-|21 | [Two Sum](/src/twoSum/)                                   |            
-|22 | [Valid Anagram](/src/validAnagram/)                       |            
-|23 | [Valid Parentheses](/src/validParentheses/)               |            
-|24 | [Odd Even Linked List](/src/oddEvenLinkedList/)           |
+| # | Problems                                                  | Difficulty | RunTime | Memory |
+| - | ---------                                                 |  Easy      |         |        |
+| 1 | [Fibonnaci](/src/Fibonacci/)                              |  Easy      |         |        |
+| 3 | [Merge 2 Sorted Lists](/src/MergeTwoSortedLists/)         |  Easy      |         |        |
+| 4 | [Move Zeros](/src/MoveZero/)                              |  Easy      |         |        |    
+| 5 | [Mumbling](/src/Mumbling/)                                |  Easy      |         |        |
+| 6 | [One Away](/src/OneAway/)                                 |  Easy      |         |        |
+| 7 | [Roman to Integer](/src/RomanToInteger)                   |  Easy      |         |        |
+| 8 | [Single Number](/src/SingleNumber)                        |  Easy      |         |        |
+| 9 | [Factorial Trailing Zeros](/src/factorialTrailingZeroes/) |  Easy      |         |        |
+|10 | [Happy Number](/src/happyNumber)                          |  Easy      |         |        |
+|11 | [Linked List Cycle](/src/linkedListCycle/)                |  Easy      |         |        |
+|12 | [Plus One](/src/plusOne/)                                 |  Easy      |         |        |
+|13 | [Power Of Three](/src/powerOfOne/)                        |  Easy      |         |        |
+|14 | [Reverse Integer](/src/reverseInteger/)                   |  Easy      |         |        |
+|15 | [Reverse Linked List](/src/reverseLinkedList)             |  Easy      |         |        |
+|16 | [Robot Return to Origin](/src/robotReturnToOrigin/)       |  Easy      |         |        |
+|17 | [Rotate Array](/src/rotateArray/)                         |  Easy      |         |        |
+|18 | [Sort By Parity](/src/sortByParity/)                      |  Easy      |         |        |
+|19 | [SqrtX](/src/sqrtX/)                                      |  Easy      |         |        |
+|20 | [Symmetric Tree](/src/symmetricTree/)                     |  Easy      |         |        |         
+|21 | [Two Sum](/src/twoSum/)                                   |  Easy      |         |        |
+|22 | [Valid Anagram](/src/validAnagram/)                       |  Easy      |         |        |
+|23 | [Valid Parentheses](/src/validParentheses/)               |  Easy      |         |        |
+|24 | [Odd Even Linked List](/src/oddEvenLinkedList/)           |  Medium    |         |        |
  
  
 Resources:
