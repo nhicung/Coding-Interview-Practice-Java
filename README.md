@@ -1,26 +1,34 @@
 # Java-Coding-Practice
-| # | Problems                | Difficulty | 
-| - | ---------               | -----------|
-| 1 | [Fibonnaci](/src/Fibonacci/)               |            |
-| 2 | Merge 2 Sorted List     |            |
-| 1 | Move Zeros              |            |
-| 2 | Mumbling         Java       |            |
-| 1 | One Away                |            |
-| 2 | Roman to Integer        |            |
-| 1 | Single Number           |            |
-| 2 | Factorial Trailing Zeros|            |
-| 1 | Happy Number            |            |
-| 2 | Linked List Cycle       |            |
-| 1 | Plus One                |            |
-| 2 | Power Of Three          |            |
-| 1 | Reverse Integer         |            |
-| 2 | Reverse Linked List     |            |
-| 1 | Robot Return to Origin  |            |
-| 1 | Rotate Array            |            |
-| 2 | Sort By Parity          |            |
-| 1 | SqrtX                   |            |
-| 2 | Symmetric Tree          |            |
-| 1 | Two Sum                 |            |
-| 2 | Valid Anagram           |            |
-| 1 | Valid Parentheses       |            |
-| 2 | Odd Even Linked List    |            |
+| # | Problems                                                  |
+| - | ---------                                                 | 
+| 1 | [Fibonnaci](/src/Fibonacci/)                              |            
+| 3 | [Merge 2 Sorted Lists] (src/MergeTwoSortedLists)          |           
+| 4 | [Move Zeros](/src/MoveZero/)                              |               
+| 5 | [Mumbling](/src/Mumbling/)                                |            
+| 6 | [One Away](/src/OneAway/)                                 |            
+| 7 | [Roman to Integer](/src/RomanToInteger)                   |            
+| 8 | [Single Number](/src/SingleNumber)                        |            
+| 9 | [Factorial Trailing Zeros](/src/factorialTrailingZeroes/) |            
+|10 | [Happy Number](/src/happyNumber)                          |            
+|11 | [Linked List Cycle](/src/linkedListCycle/)                |            
+|12 | [Plus One](/src/plusOne/)                                 |            
+|13 | [Power Of Three](/src/powerOfOne/)                        |            
+|14 | [Reverse Integer](/src/reverseInteger/)                   |            
+|15 | [Reverse Linked List](/src/reverseLinkedList)             |            
+|16 | [Robot Return to Origin](/src/robotReturnToOrigin/)       |            
+|17 | [Rotate Array](/src/rotateArray/)                         |            
+|18 | [Sort By Parity](/src/sortByParity/)                      |            
+|19 | [SqrtX](/src/sqrtX/)                                      |            
+|20 | [Symmetric Tree](/src/symmetricTree/)                     |                     
+|21 | [Two Sum](/src/twoSum/)                                   |            
+|22 | [Valid Anagram](src/validAnagram/)                        |            
+|23 | [Valid Parentheses] (/src/validParentheses/)              |            
+|24 | [Odd Even Linked List](/src/oddEvenLinkedList/)
+ 
+This project is licensed under the MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
