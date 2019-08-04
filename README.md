@@ -1,6 +1,6 @@
 # Java-Coding-Practice
 
-A set of coding problems from leetcode.com and codewar.com:
+A set of coding problems from leetcode.com and codewars.com:
 
 | # | Problems                                                  | Difficulty | RunTime | Memory |
 | - | --------------------------------------------------------- | ---------- | ------- | ------ |
