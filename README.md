@@ -1,5 +1,7 @@
 # Java-Coding-Practice
+
 A set of coding problems from leetcode.com and codewar.com:
+
 | # | Problems                                                  |
 | - | ---------                                                 | 
 | 1 | [Fibonnaci](/src/Fibonacci/)                              |            
