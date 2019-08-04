@@ -21,13 +21,13 @@
 |19 | [SqrtX](/src/sqrtX/)                                      |            
 |20 | [Symmetric Tree](/src/symmetricTree/)                     |                     
 |21 | [Two Sum](/src/twoSum/)                                   |            
-|22 | [Valid Anagram](/src/validAnagram/)                        |            
-|23 | [Valid Parentheses](/src/validParentheses/)              |            
-|24 | [Odd Even Linked List](/src/oddEvenLinkedList/)
+|22 | [Valid Anagram](/src/validAnagram/)                       |            
+|23 | [Valid Parentheses](/src/validParentheses/)               |            
+|24 | [Odd Even Linked List](/src/oddEvenLinkedList/)           |
  
  
 Resources:
-[LeetCode](https://leetcode.com)
+[LeetCode](https://leetcode.com) |
 [Codewars](https://www.codewars.com)
 
 
