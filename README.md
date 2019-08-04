@@ -3,7 +3,7 @@
 A set of coding problems from leetcode.com and codewar.com:
 
 | # | Problems                                                  | Difficulty | RunTime | Memory |
-| - | ---------                                                 |  Easy      |         |        |
+| - | --------------------------------------------------------- | ---------- | ------- | ------ |
 | 1 | [Fibonnaci](/src/Fibonacci/)                              |  Easy      |         |        |
 | 3 | [Merge 2 Sorted Lists](/src/MergeTwoSortedLists/)         |  Easy      |         |        |
 | 4 | [Move Zeros](/src/MoveZero/)                              |  Easy      |         |        |    
