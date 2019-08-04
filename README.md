@@ -2,7 +2,7 @@
 | # | Problems                                                  |
 | - | ---------                                                 | 
 | 1 | [Fibonnaci](/src/Fibonacci/)                              |            
-| 3 | [Merge 2 Sorted Lists] (/src/MergeTwoSortedLists/)          |           
+| 3 | [Merge 2 Sorted Lists](/src/MergeTwoSortedLists/)          |           
 | 4 | [Move Zeros](/src/MoveZero/)                              |               
 | 5 | [Mumbling](/src/Mumbling/)                                |            
 | 6 | [One Away](/src/OneAway/)                                 |            
@@ -22,7 +22,7 @@
 |20 | [Symmetric Tree](/src/symmetricTree/)                     |                     
 |21 | [Two Sum](/src/twoSum/)                                   |            
 |22 | [Valid Anagram](/src/validAnagram/)                        |            
-|23 | [Valid Parentheses] (/src/validParentheses/)              |            
+|23 | [Valid Parentheses](/src/validParentheses/)              |            
 |24 | [Odd Even Linked List](/src/oddEvenLinkedList/)
  
 This project is licensed under the MIT License
