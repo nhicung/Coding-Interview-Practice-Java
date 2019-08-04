@@ -1,8 +1,9 @@
 # Java-Coding-Practice
+A set of coding problems from leetcode.com and codewar.com:
 | # | Problems                                                  |
 | - | ---------                                                 | 
 | 1 | [Fibonnaci](/src/Fibonacci/)                              |            
-| 3 | [Merge 2 Sorted Lists](/src/MergeTwoSortedLists/)          |           
+| 3 | [Merge 2 Sorted Lists](/src/MergeTwoSortedLists/)         |           
 | 4 | [Move Zeros](/src/MoveZero/)                              |               
 | 5 | [Mumbling](/src/Mumbling/)                                |            
 | 6 | [One Away](/src/OneAway/)                                 |            
