@@ -27,7 +27,7 @@ Note:
 
 0 ≤ N ≤ 30.
 
-RESULT:
+MY SOLUTION:
 Runtime: 9 ms, faster than 25.08% of Java online submissions for Fibonacci Number.
 Memory Usage: 33.1 MB, less than 5.18% of Java online submissions for Fibonacci Number.
 */
