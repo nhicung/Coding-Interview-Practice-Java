@@ -4,7 +4,7 @@ A set of coding problems from leetcode.com and codewars.com:
 
 | # | Problems                                                  | Difficulty | RunTime | Memory |
 | - | --------------------------------------------------------- | ---------- | ------- | ------ |
-| 1 | [Fibonnaci](/src/Fibonacci/)                              |  Easy      |  O(n)   |  O(n)  |
+| 1 | [Fibonnaci](/src/Fibonacci/)                              |  Easy      |         |        |
 | 3 | [Merge 2 Sorted Lists](/src/MergeTwoSortedLists/)         |  Easy      |         |        |
 | 4 | [Move Zeros](/src/MoveZero/)                              |  Easy      |         |        |    
 | 5 | [Mumbling](/src/Mumbling/)                                |  Easy      |         |        |
