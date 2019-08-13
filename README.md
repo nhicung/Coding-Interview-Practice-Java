@@ -2,33 +2,34 @@
 
 A set of coding problems from leetcode.com and codewars.com:
 
-| # | Problems                                                               | Difficulty | RunTime | Memory |
-| - | ---------------------------------------------------------              | ---------- | ------- | ------ |
-| 1 | [Contains Duplicates](/src/containsDuplicate/)                         |  Easy      |         |        |
-| 2 | [Fibonacci](/src/Fibonacci/)                                           |  Easy      |         |        |
-| 3 | [Merge 2 Sorted Lists](/src/MergeTwoSortedLists/)                      |  Easy      |         |        |
-| 4 | [Move Zeros](/src/MoveZero/)                                           |  Easy      |         |        |    
-| 5 | [Mumbling](/src/Mumbling/)                                             |  Easy      |         |        |
-| 6 | [One Away](/src/OneAway/)                                              |  Easy      |         |        |
-| 7 | [Roman to Integer](/src/RomanToInteger)                                |  Easy      |         |        |
-| 8 | [Single Number](/src/SingleNumber)                                     |  Easy      |         |        |
-| 9 | [Factorial Trailing Zeros](/src/factorialTrailingZeroes/)              |  Easy      |         |        |
-|10 | [Happy Number](/src/happyNumber)                                       |  Easy      |         |        |
-|11 | [Linked List Cycle](/src/linkedListCycle/)                             |  Easy      |         |        |
-|12 | [Plus One](/src/plusOne/)                                              |  Easy      |         |        |
-|13 | [Power Of Three](/src/powerOfOne/)                                     |  Easy      |         |        |
-|14 | [Reverse Integer](/src/reverseInteger/)                                |  Easy      |         |        |
-|15 | [Reverse Linked List](/src/reverseLinkedList)                          |  Easy      |         |        |
-|16 | [Robot Return to Origin](/src/robotReturnToOrigin/)                    |  Easy      |         |        |
-|17 | [Rotate Array](/src/rotateArray/)                                      |  Easy      |         |        |
-|18 | [Sort By Parity](/src/sortByParity/)                                   |  Easy      |         |        |
-|19 | [SqrtX](/src/sqrtX/)                                                   |  Easy      |         |        |
-|20 | [Symmetric Tree](/src/symmetricTree/)                                  |  Easy      |         |        |         
-|21 | [Two Sum](/src/twoSum/)                                                |  Easy      |         |        |
-|22 | [Valid Anagram](/src/validAnagram/)                                    |  Easy      |         |        |
-|23 | [Valid Parentheses](/src/validParentheses/)                            |  Easy      |         |        |
-|24 | [Binary Tree Inorder Traversal](/src/binaryTreeInorderTraversal/)      |  Medium    |         |        |
-|25 | [Odd Even Linked List](/src/oddEvenLinkedList/)                        |  Medium    |         |        |
+ | Problems                                                               | Difficulty | RunTime | Memory |
+ | ---------------------------------------------------------              | ---------- | ------- | ------ |
+ | [Best Time To Sell Stock](/src/bestTimeToSellStock/)                   |  Easy      |   O(n)  |  O(1)  |
+ | [Contains Duplicates](/src/containsDuplicate/)                         |  Easy      |         |        |
+ | [Fibonacci](/src/Fibonacci/)                                           |  Easy      |         |        |
+ | [Merge 2 Sorted Lists](/src/MergeTwoSortedLists/)                      |  Easy      |         |        |
+ | [Move Zeros](/src/MoveZero/)                                           |  Easy      |         |        |    
+ | [Mumbling](/src/Mumbling/)                                             |  Easy      |         |        |
+ | [One Away](/src/OneAway/)                                              |  Easy      |         |        |
+ | [Roman to Integer](/src/RomanToInteger)                                |  Easy      |         |        |
+ | [Single Number](/src/SingleNumber)                                     |  Easy      |         |        |
+ | [Factorial Trailing Zeros](/src/factorialTrailingZeroes/)              |  Easy      |         |        |
+ | [Happy Number](/src/happyNumber)                                       |  Easy      |         |        |
+ | [Linked List Cycle](/src/linkedListCycle/)                             |  Easy      |         |        |
+ | [Plus One](/src/plusOne/)                                              |  Easy      |         |        |
+ | [Power Of Three](/src/powerOfOne/)                                     |  Easy      |         |        |
+ | [Reverse Integer](/src/reverseInteger/)                                |  Easy      |         |        |
+ | [Reverse Linked List](/src/reverseLinkedList)                          |  Easy      |         |        |
+ | [Robot Return to Origin](/src/robotReturnToOrigin/)                    |  Easy      |         |        |
+ | [Rotate Array](/src/rotateArray/)                                      |  Easy      |         |        |
+ | [Sort By Parity](/src/sortByParity/)                                   |  Easy      |         |        |
+ | [SqrtX](/src/sqrtX/)                                                   |  Easy      |         |        |
+ | [Symmetric Tree](/src/symmetricTree/)                                  |  Easy      |         |        |         
+ | [Two Sum](/src/twoSum/)                                                |  Easy      |         |        |
+ | [Valid Anagram](/src/validAnagram/)                                    |  Easy      |         |        |
+ | [Valid Parentheses](/src/validParentheses/)                            |  Easy      |         |        |
+ | [Binary Tree Inorder Traversal](/src/binaryTreeInorderTraversal/)      |  Medium    |         |        |
+ | [Odd Even Linked List](/src/oddEvenLinkedList/)                        |  Medium    |         |        |
  
  
 Resources:
