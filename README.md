@@ -16,6 +16,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Factorial Trailing Zeros](/src/factorialTrailingZeroes/)              |  Easy      |         |        |
  | [Happy Number](/src/happyNumber)                                       |  Easy      |         |        |
  | [Linked List Cycle](/src/linkedListCycle/)                             |  Easy      |         |        |
+ | [Maximum Depth Of Binary Tree](/src/maximumDepthOfBinaryTree/)         |  Easy      |         |        |
  | [Plus One](/src/plusOne/)                                              |  Easy      |         |        |
  | [Power Of Three](/src/powerOfOne/)                                     |  Easy      |         |        |
  | [Reverse Integer](/src/reverseInteger/)                                |  Easy      |         |        |
