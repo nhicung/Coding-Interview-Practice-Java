@@ -23,7 +23,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Reverse Integer](/src/reverseInteger/)                                |  Easy      |         |        |
  | [Reverse Linked List](/src/reverseLinkedList)                          |  Easy      |         |        |
  | [Robot Return to Origin](/src/robotReturnToOrigin/)                    |  Easy      |         |        |
- | [Rotate Array](/src/rotateArray/)                                      |  Easy      |  O(n*k) |  O(k)  | *
+ | [Rotate Array](/src/rotateArray/) *                                    |  Easy      |  O(n*k) |  O(k)  | 
  | [Single Number](/src/singleNumber/)                                    |  Easy      |  O(n)   |  O(n)  |
  | [Sort By Parity](/src/sortByParity/)                                   |  Easy      |  O(n)   |  O(n)  |
  | [SqrtX](/src/sqrtX/)                                                   |  Easy      |  O(1)   |        |
