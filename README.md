@@ -21,7 +21,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Palindrome Number](/src/palindromeNumber/)                            |  Easy      |O(log10(n)| O(1)  |
  | [Power Of Three](/src/powerOfOne/)                                     |  Easy      |         |        |
  | [Reverse Integer](/src/reverseInteger/)                                |  Easy      |         |        |
- | [Reverse Linked List](/src/reverseLinkedList)                          |  Easy      |         |        |
+ | [Reverse Linked List](/src/reverseLinkedList)                          |  Easy      |  O(n)   |  O(1)  |
  | [Robot Return to Origin](/src/robotReturnToOrigin/)                    |  Easy      |  O(n)   |  O(1)  |
  | [Rotate Array](/src/rotateArray/) *                                    |  Easy      |  O(n*k) |  O(k)  | 
  | [Single Number](/src/singleNumber/)                                    |  Easy      |  O(n)   |  O(n)  |
