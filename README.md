@@ -24,10 +24,11 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Reverse Linked List](/src/reverseLinkedList)                          |  Easy      |         |        |
  | [Robot Return to Origin](/src/robotReturnToOrigin/)                    |  Easy      |         |        |
  | [Rotate Array](/src/rotateArray/)                                      |  Easy      |         |        |
- | [Sort By Parity](/src/sortByParity/)                                   |  Easy      |         |        |
- | [SqrtX](/src/sqrtX/)                                                   |  Easy      |         |        |
+ | [Single Number](/src/singleNumber/)                                    |  Easy      |  O(n)   |  O(n)  |
+ | [Sort By Parity](/src/sortByParity/)                                   |  Easy      |  O(n)   |  O(n)  |
+ | [SqrtX](/src/sqrtX/)                                                   |  Easy      |  O(1)   |        |
  | [Symmetric Tree](/src/symmetricTree/)                                  |  Easy      |  O(n)   |  O(n)  |         
- | [Two Sum](/src/twoSum/)                                                |  Easy      |         |        |
+ | [Two Sum](/src/twoSum/)                                                |  Easy      |  O(n)   |  O(n)  |
  | [Valid Anagram](/src/validAnagram/)                                    |  Easy      | O(nlogn)|  O(1)  |
  | [Valid Parentheses](/src/validParentheses/)                            |  Easy      | O(n^2)  | O(n^2) |
  | [Binary Tree Inorder Traversal](/src/binaryTreeInorderTraversal/)      |  Medium    |  O(n)   |  O(n)  |
