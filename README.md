@@ -26,12 +26,12 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Rotate Array](/src/rotateArray/)                                      |  Easy      |         |        |
  | [Sort By Parity](/src/sortByParity/)                                   |  Easy      |         |        |
  | [SqrtX](/src/sqrtX/)                                                   |  Easy      |         |        |
- | [Symmetric Tree](/src/symmetricTree/)                                  |  Easy      |         |        |         
+ | [Symmetric Tree](/src/symmetricTree/)                                  |  Easy      |  O(n)   |  O(n)  |         
  | [Two Sum](/src/twoSum/)                                                |  Easy      |         |        |
- | [Valid Anagram](/src/validAnagram/)                                    |  Easy      |         |        |
- | [Valid Parentheses](/src/validParentheses/)                            |  Easy      |         |        |
- | [Binary Tree Inorder Traversal](/src/binaryTreeInorderTraversal/)      |  Medium    |         |        |
- | [Odd Even Linked List](/src/oddEvenLinkedList/)                        |  Medium    |         |        |
+ | [Valid Anagram](/src/validAnagram/)                                    |  Easy      | O(nlogn)|  O(1)  |
+ | [Valid Parentheses](/src/validParentheses/)                            |  Easy      | O(n^2)  | O(n^2) |
+ | [Binary Tree Inorder Traversal](/src/binaryTreeInorderTraversal/)      |  Medium    |  O(n)   |  O(n)  |
+ | [Odd Even Linked List](/src/oddEvenLinkedList/)                        |  Medium    |  O(n)   |  O(1)  |
  
  
 Resources:
