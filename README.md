@@ -18,6 +18,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Linked List Cycle](/src/linkedListCycle/)                             |  Easy      |         |        |
  | [Maximum Depth Of Binary Tree](/src/maximumDepthOfBinaryTree/)         |  Easy      |         |        |
  | [Plus One](/src/plusOne/)                                              |  Easy      |         |        |
+ | [Palindrome Number](/src/palindromeNumber/)                            |  Easy      |O(log10(n)| O(1)  |
  | [Power Of Three](/src/powerOfOne/)                                     |  Easy      |         |        |
  | [Reverse Integer](/src/reverseInteger/)                                |  Easy      |         |        |
  | [Reverse Linked List](/src/reverseLinkedList)                          |  Easy      |         |        |
