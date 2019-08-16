@@ -34,7 +34,7 @@ Memory Usage: 33.1 MB, less than 5.18% of Java online submissions for Fibonacci 
 
 package fibonacci;
 
-public class Fibonacci {
+public class RecursiveFibonacci {
     public int fib(int N) {
         int result =0;
         if (N ==0){

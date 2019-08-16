@@ -23,9 +23,9 @@ MY SOLUTION:
 		Memory Usage: 36.4 MB, less than 5.02% of Java online submissions for Palindrome Number.
 
  */
-package palindromNumber;
+package palindromeNumber;
 
-public class PalindromNumber {
+public class PalindromeNumber {
 	public boolean isPalindrome(int x) {
 		if (x < 0 || (x % 10 == 0 && x != 0)) {
 			return false;
