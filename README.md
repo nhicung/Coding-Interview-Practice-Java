@@ -5,8 +5,8 @@ A set of coding problems from leetcode.com and codewars.com:
  | Problems                                                               | Difficulty | RunTime | Memory |
  | ---------------------------------------------------------              | ---------- | ------- | ------ |
  | [Best Time To Sell Stock](/src/bestTimeToSellStock/)                   |  Easy      |   O(n)  |  O(1)  |
- | [Contains Duplicates](/src/containsDuplicate/)                         |  Easy      |         |        |
- | [Fibonacci](/src/Fibonacci/)                                           |  Easy      |         |        |
+ | [Contains Duplicates](/src/containsDuplicate/)                         |  Easy      | O(nlogn)|  O(1)  |
+ | [Fibonacci](/src/Fibonacci/)                                           |  Easy      |   O(n)  |  O(n)  |
  | [Merge 2 Sorted Lists](/src/MergeTwoSortedLists/)                      |  Easy      |         |        |
  | [Move Zeros](/src/MoveZero/)                                           |  Easy      |         |        |    
  | [Mumbling](/src/Mumbling/)                                             |  Easy      |         |        |
