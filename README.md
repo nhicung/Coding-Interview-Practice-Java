@@ -26,14 +26,15 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Rotate Array](/src/rotateArray/) *                                    |  Easy      |  O(n*k) |  O(k)  | 
  | [Single Number](/src/singleNumber/)                                    |  Easy      |  O(n)   |  O(n)  |
  | [Sort By Parity](/src/sortByParity/)                                   |  Easy      |  O(n)   |  O(n)  |
- | [SqrtX](/src/sqrtX/)                                                   |  Easy      |  O(1)   |        |
+ | [SqrtX](/src/sqrtX/) *                                                 |  Easy      |  O(1)   |        |
  | [Symmetric Tree](/src/symmetricTree/)                                  |  Easy      |  O(n)   |  O(n)  |         
  | [Two Sum](/src/twoSum/)                                                |  Easy      |  O(n)   |  O(n)  |
- | [Valid Anagram](/src/validAnagram/)                                    |  Easy      | O(nlogn)|  O(1)  |
- | [Valid Parentheses](/src/validParentheses/)                            |  Easy      | O(n^2)  | O(n^2) |
+ | [Valid Anagram](/src/validAnagram/) *                                  |  Easy      | O(nlogn)|  O(1)  |
+ | [Valid Parentheses](/src/validParentheses/) *                          |  Easy      | O(n^2)  | O(n^2) |
  | [Binary Tree Inorder Traversal](/src/binaryTreeInorderTraversal/)      |  Medium    |  O(n)   |  O(n)  |
  | [Odd Even Linked List](/src/oddEvenLinkedList/)                        |  Medium    |  O(n)   |  O(1)  |
  
+ * Possibly improved for better complexity.
  
 Resources:
 [LeetCode](https://leetcode.com) |
