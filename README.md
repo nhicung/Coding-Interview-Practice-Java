@@ -4,25 +4,25 @@ A set of coding problems from leetcode.com and codewars.com:
 
  | Problems                                                               | Difficulty | RunTime | Memory |
  | ---------------------------------------------------------              | ---------- | ------- | ------ |
- | [Best Time To Sell Stock](/src/bestTimeToSellStock/)                   |  Easy      |   O(n)  |  O(1)  |
+ | [Best Time To Sell Stock](/src/bestTimeToSellStock/)                   |  Easy      |  O(n)   |  O(1)  |
  | [Contains Duplicates](/src/containsDuplicate/)                         |  Easy      | O(nlogn)|  O(1)  |
- | [Fibonacci](/src/Fibonacci/)                                           |  Easy      |   O(n)  |  O(n)  |
- | [Merge 2 Sorted Lists](/src/MergeTwoSortedLists/)                      |  Easy      |         |        |
- | [Move Zeros](/src/MoveZero/)                                           |  Easy      |         |        |    
- | [Mumbling](/src/Mumbling/)                                             |  Easy      |         |        |
- | [One Away](/src/OneAway/)                                              |  Easy      |         |        |
- | [Roman to Integer](/src/RomanToInteger)                                |  Easy      |         |        |
- | [Single Number](/src/SingleNumber)                                     |  Easy      |         |        |
- | [Factorial Trailing Zeros](/src/factorialTrailingZeroes/)              |  Easy      |         |        |
+ | [Factorial Trailing Zeros](/src/factorialTrailingZeroes/)              |  Easy      |  O(n)   |  O(1)  |
+ | [Fibonacci](/src/Fibonacci/)                                           |  Easy      |  O(n)   |  O(n)  |
  | [Happy Number](/src/happyNumber)                                       |  Easy      |         |        |
- | [Linked List Cycle](/src/linkedListCycle/)                             |  Easy      |         |        |
+ | [Linked List Cycle](/src/linkedListCycle/)                             |  Easy      |  O(n)   |  O(n)  |
  | [Maximum Depth Of Binary Tree](/src/maximumDepthOfBinaryTree/)         |  Easy      |  O(n)   |  O(n)  |
- | [Palindrome Number](/src/palindromeNumber/)                            |  Easy      |O(log10(n)| O(1)  |
+ | [Merge 2 Sorted Lists](/src/MergeTwoSortedLists/)                      |  Easy      |  O(n)   |  O(n)  |
+ | [Move Zeros](/src/MoveZero/)                                           |  Easy      |  O(n)   |  O(n)  |    
+ | [Mumbling](/src/Mumbling/)                                             |  Easy      |  O(n^2) |  O(n^2)|
+ | [One Away](/src/OneAway/)                                              |  Easy      |         |        |
+ | [Palindrome Number](/src/palindromeNumber/)*                           |  Easy      |O(log10(n)| O(1)  |
  | [Plus One](/src/plusOne/)                                              |  Easy      |  O(n)   |  O(n)  |
  | [Power Of Three](/src/powerOfOne/)                                     |  Easy      |         |  O(1)  |
  | [Reverse Integer](/src/reverseInteger/)                                |  Easy      | O(logx) |  O(1)  |
  | [Reverse Linked List](/src/reverseLinkedList)                          |  Easy      |  O(n)   |  O(1)  |
+ | [Reverse String](/src/reverseString)                                   |  Easy      |  O(n)   |  O(1)  |
  | [Robot Return to Origin](/src/robotReturnToOrigin/)                    |  Easy      |  O(n)   |  O(1)  |
+ | [Roman to Integer](/src/RomanToInteger)                                |  Easy      |  O(n)   |  O(n)  |
  | [Rotate Array](/src/rotateArray/) *                                    |  Easy      |  O(n*k) |  O(k)  | 
  | [Single Number](/src/singleNumber/)                                    |  Easy      |  O(n)   |  O(n)  |
  | [Sort By Parity](/src/sortByParity/)                                   |  Easy      |  O(n)   |  O(n)  |
@@ -34,7 +34,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Binary Tree Inorder Traversal](/src/binaryTreeInorderTraversal/)      |  Medium    |  O(n)   |  O(n)  |
  | [Odd Even Linked List](/src/oddEvenLinkedList/)                        |  Medium    |  O(n)   |  O(1)  |
  
- /* Possibly improved for better complexity.
+ \* Possibly improved for better complexity.
  
 Resources:
 [LeetCode](https://leetcode.com) |
