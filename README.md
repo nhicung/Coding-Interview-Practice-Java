@@ -16,11 +16,11 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Factorial Trailing Zeros](/src/factorialTrailingZeroes/)              |  Easy      |         |        |
  | [Happy Number](/src/happyNumber)                                       |  Easy      |         |        |
  | [Linked List Cycle](/src/linkedListCycle/)                             |  Easy      |         |        |
- | [Maximum Depth Of Binary Tree](/src/maximumDepthOfBinaryTree/)         |  Easy      |         |        |
- | [Plus One](/src/plusOne/)                                              |  Easy      |         |        |
+ | [Maximum Depth Of Binary Tree](/src/maximumDepthOfBinaryTree/)         |  Easy      |  O(n)   |  O(n)  |
  | [Palindrome Number](/src/palindromeNumber/)                            |  Easy      |O(log10(n)| O(1)  |
- | [Power Of Three](/src/powerOfOne/)                                     |  Easy      |         |        |
- | [Reverse Integer](/src/reverseInteger/)                                |  Easy      |         |        |
+ | [Plus One](/src/plusOne/)                                              |  Easy      |  O(n)   |  O(n)  |
+ | [Power Of Three](/src/powerOfOne/)                                     |  Easy      |         |  O(1)  |
+ | [Reverse Integer](/src/reverseInteger/)                                |  Easy      | O(logx) |  O(1)  |
  | [Reverse Linked List](/src/reverseLinkedList)                          |  Easy      |  O(n)   |  O(1)  |
  | [Robot Return to Origin](/src/robotReturnToOrigin/)                    |  Easy      |  O(n)   |  O(1)  |
  | [Rotate Array](/src/rotateArray/) *                                    |  Easy      |  O(n*k) |  O(k)  | 
@@ -34,7 +34,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Binary Tree Inorder Traversal](/src/binaryTreeInorderTraversal/)      |  Medium    |  O(n)   |  O(n)  |
  | [Odd Even Linked List](/src/oddEvenLinkedList/)                        |  Medium    |  O(n)   |  O(1)  |
  
- * Possibly improved for better complexity.
+ /* Possibly improved for better complexity.
  
 Resources:
 [LeetCode](https://leetcode.com) |
