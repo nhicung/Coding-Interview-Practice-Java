@@ -20,6 +20,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Power Of Three](/src/powerOfOne/)                                     |  Easy      |         |  O(1)  |
  | [Reverse Integer](/src/reverseInteger/)                                |  Easy      | O(logx) |  O(1)  |
  | [Reverse Linked List](/src/reverseLinkedList)                          |  Easy      |  O(n)   |  O(1)  |
+ | [Reverse Linked List](/src/reverseLinkedList)                          |  Easy      |  O(n)   |  O(1)  |
  | [Reverse String](/src/reverseString)                                   |  Easy      |  O(n)   |  O(1)  |
  | [Robot Return to Origin](/src/robotReturnToOrigin/)                    |  Easy      |  O(n)   |  O(1)  |
  | [Roman to Integer](/src/RomanToInteger)                                |  Easy      |  O(n)   |  O(n)  |
