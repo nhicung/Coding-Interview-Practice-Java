@@ -1,3 +1,22 @@
+/*
+PROBLEM DESCRIPTION:
+
+	Reverse a singly linked list.
+	
+	Example:
+	
+	Input: 1->2->3->4->5->NULL
+	Output: 5->4->3->2->1->NULL
+	Follow up:
+	
+	A linked list can be reversed either iteratively or recursively. Could you implement both?
+	
+MY SOLUTION:
+	Runtime: 0 ms, faster than 100.00% of Java online submissions for Reverse Linked List.
+	Memory Usage: 37 MB, less than 98.92% of Java online submissions for Reverse Linked List.
+
+
+ */
 package reverseLinkedList;
 
 public class IterationWay {
