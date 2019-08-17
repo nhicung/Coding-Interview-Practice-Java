@@ -1,6 +1,6 @@
 package reverseLinkedList;
 
-public class ReverseLinkedList {
+public class IterationWay {
 	public class ListNode {
 		int val;
 		ListNode next;
