@@ -20,7 +20,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Power Of Three](/src/powerOfOne/)                                     |  Easy      |         |  O(1)  |
  | [Reverse Integer](/src/reverseInteger/)                                |  Easy      | O(logx) |  O(1)  |
  | [Reverse Linked List - Iteration](/src/reverseLinkedList/IterationWay.java)|  Easy      |  O(n)   |  O(1)  |
- | [Reverse Linked List - Recursion](/src/reverseLinkedList/RecusionWay.java) |  Easy      |  O(n)   |  O(n)  |
+ | [Reverse Linked List - Recursion](/src/reverseLinkedList/RecursionWay.java)|  Easy      |  O(n)   |  O(n)  |
  | [Reverse String](/src/reverseString)                                   |  Easy      |  O(n)   |  O(1)  |
  | [Robot Return to Origin](/src/robotReturnToOrigin/)                    |  Easy      |  O(n)   |  O(1)  |
  | [Roman to Integer](/src/RomanToInteger)                                |  Easy      |  O(n)   |  O(n)  |
