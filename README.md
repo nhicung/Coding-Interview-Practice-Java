@@ -19,7 +19,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Plus One](/src/plusOne/)                                              |  Easy      |  O(n)   |  O(n)  |
  | [Power Of Three](/src/powerOfOne/)                                     |  Easy      |         |  O(1)  |
  | [Reverse Integer](/src/reverseInteger/)                                |  Easy      | O(logx) |  O(1)  |
- | [Reverse Linked List](/src/reverseLinkedList)                          |  Easy      |  O(n)   |  O(1)  |
+ | [Reverse Linked List](/src/reverseLinkedList/IterationWay.java)        |  Easy      |  O(n)   |  O(1)  |
  | [Reverse Linked List](/src/reverseLinkedList)                          |  Easy      |  O(n)   |  O(1)  |
  | [Reverse String](/src/reverseString)                                   |  Easy      |  O(n)   |  O(1)  |
  | [Robot Return to Origin](/src/robotReturnToOrigin/)                    |  Easy      |  O(n)   |  O(1)  |
