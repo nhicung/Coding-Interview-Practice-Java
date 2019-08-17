@@ -8,7 +8,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Contains Duplicates](/src/containsDuplicate/)                         |  Easy      | O(nlogn)|  O(1)  |
  | [Factorial Trailing Zeros](/src/factorialTrailingZeroes/)              |  Easy      |  O(n)   |  O(1)  |
  | [Fibonacci](/src/Fibonacci/)                                           |  Easy      |  O(n)   |  O(n)  |
- | [Happy Number](/src/happyNumber)                                       |  Easy      |         |        |
+ | [Happy Number](/src/happyNumber)*                                      |  Easy      |         |        |
  | [Linked List Cycle](/src/linkedListCycle/)                             |  Easy      |  O(n)   |  O(n)  |
  | [Maximum Depth Of Binary Tree](/src/maximumDepthOfBinaryTree/)         |  Easy      |  O(n)   |  O(n)  |
  | [Merge 2 Sorted Lists](/src/MergeTwoSortedLists/)                      |  Easy      |  O(n)   |  O(n)  |
@@ -32,9 +32,11 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Valid Anagram](/src/validAnagram/) *                                  |  Easy      | O(nlogn)|  O(1)  |
  | [Valid Parentheses](/src/validParentheses/) *                          |  Easy      | O(n^2)  | O(n^2) |
  | [Binary Tree Inorder Traversal](/src/binaryTreeInorderTraversal/)      |  Medium    |  O(n)   |  O(n)  |
+ | [Binary Tree Level Order Traversal](/src/binaryTreeLevelOrderTraversal/)|  Medium   |  O(n)   |  O(n)  |
+ | [Group Anagram](/src/groupAnagram/)                                    |  Medium    |  O(nk)  |O(nklogk)|
  | [Odd Even Linked List](/src/oddEvenLinkedList/)                        |  Medium    |  O(n)   |  O(1)  |
  
- \* Possibly improved for better complexity.
+ \* Possibly needs improvement for better performance.
  
 Resources:
 [LeetCode](https://leetcode.com) |
