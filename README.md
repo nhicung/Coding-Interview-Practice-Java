@@ -15,7 +15,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Move Zeros](/src/MoveZero/)                                           |  Easy      |  O(n)   |  O(n)  |    
  | [Mumbling](/src/Mumbling/)*                                            |  Easy      |  O(n^2) |  O(n^2)|
  | [One Away](/src/OneAway/)                                              |  Easy      |  O(n)   |  O(1)  |
- | [Palindrome Number](/src/palindromeNumber/)*                           |  Easy      |O(log10(n)| O(1)  |
+ | [Palindrome Number](/src/palindromeNumber/)*                           |  Easy      |O(log10(n))| O(1)  |
  | [Plus One](/src/plusOne/)                                              |  Easy      |  O(n)   |  O(n)  |
  | [Power Of Three](/src/powerOfOne/)                                     |  Easy      |         |  O(1)  |
  | [Reverse Integer](/src/reverseInteger/)                                |  Easy      | O(logx) |  O(1)  |
