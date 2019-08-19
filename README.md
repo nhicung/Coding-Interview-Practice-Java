@@ -10,6 +10,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Fibonacci](/src/Fibonacci/)                                           |  Easy      |  O(n)   |  O(n)  |
  | [Happy Number](/src/happyNumber)*                                      |  Easy      |         |        |
  | [Intersection Of 2 Arrays](/src/intersectionOfTwoArrays)               |  Easy      | O(m+n)  | O(m+n) |
+ | [Invert Tree](/src/invertTree)                                         |  Easy      | O(n)    | O(1)   |
  | [Linked List Cycle](/src/linkedListCycle/)                             |  Easy      |  O(n)   |  O(n)  |
  | [Maximum Depth Of Binary Tree](/src/maximumDepthOfBinaryTree/)         |  Easy      |  O(n)   |  O(n)  |
  | [Merge 2 Sorted Lists](/src/MergeTwoSortedLists/)                      |  Easy      |  O(n)   |  O(n)  |
