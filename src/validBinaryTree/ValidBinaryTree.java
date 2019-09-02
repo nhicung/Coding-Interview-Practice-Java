@@ -45,6 +45,32 @@ public class ValidBinaryTree {
 
 	public boolean isValidBST(TreeNode root) {
 
+		return helper(root, null, null);
+
 	}
-	
+
+	public boolean helper(TreeNode node, Integer upper, Integer lower) {
+		if (node == null) {
+			return true;
+		}
+		int val = node.val;
+
+		if (lower != null && val <= lower) {
+			return false;
+		}
+
+		if (upper != null && upper <= val) {
+			return false;
+		}
+
+		if (!helper(node.left, val, lower)) {
+			return false;
+		}
+
+		if (!helper(node.right, upper, val)) {
+			return false;
+		}
+		return true;
+	}
+
 }
