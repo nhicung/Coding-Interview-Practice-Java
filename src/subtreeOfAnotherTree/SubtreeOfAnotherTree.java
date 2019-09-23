@@ -34,6 +34,7 @@ Return false.
 package subtreeOfAnotherTree;
 
 public class SubtreeOfAnotherTree {
+	
 	public boolean isSubTree(TreeNode s, TreeNode t) {
 
 	}
