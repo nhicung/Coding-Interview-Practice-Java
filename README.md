@@ -41,7 +41,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Group Anagram](/src/groupAnagram/)                                    |  Medium    |  O(nk)  |O(nklogk)|
  | [Odd Even Linked List](/src/oddEvenLinkedList/)                        |  Medium    |  O(n)   |  O(1)  |
  | [Reverse Linked List 2](/src/reverseLinkedList2/)                      |  Medium    |  O(n)   |  O(1)  |
- | [Word Break (Brute Force)](/src/wordBreak1/)                           |  Medium    | |    |
+ | [Word Break (Brute Force)](/src/wordBreak1/)                           |  Medium    | O(n^2)  |    |
  | [Word Break (Dynamic Programming)](/src/wordBreak2/)                   |  Medium    |   | |
  
  \* Possibly needs improvement for better performance.
