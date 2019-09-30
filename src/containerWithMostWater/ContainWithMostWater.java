@@ -25,9 +25,17 @@ public class ContainWithMostWater {
 		
 		for (int i = 0; i < height.length; i ++) {
 			for (int j = i+1; j < height.length; j++) {
-				
+				width = j-i;
+				if (height[i] > height[j]) {
+					posHeight = height[i];
+				} else {
+					posHeight = height[j];
+				}
+				vol = width * posHeight;
+				maxVol = Math.max(vol,  maxVol);
 			}
 		}
+		return maxVol;
 	}
 	
 }
