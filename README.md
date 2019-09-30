@@ -7,7 +7,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Best Time To Sell Stock](/src/bestTimeToSellStock/)                   |  Easy      |  O(n)   |  O(1)  |
  | [Binary Tree Inorder Traversal](/src/binaryTreeInorderTraversal/)      |  Medium    |  O(n)   |  O(n)  |
  | [Binary Tree Level Order Traversal](/src/binaryTreeLevelOrderTraversal/)|  Medium   |  O(n)   |  O(n)  |
- | [Construct Binary Tree from Inorder and Preorder Traversal](/src/constructBinaryTree/)  Medium    | O(n^2)  |  O(n)  |
+ | [Construct Binary Tree from Inorder and Preorder Traversal](/src/constructBinaryTree/)|  Medium    | O(n^2)  |  O(n)  |
  | [Container With Most Water](/src/containerWithMostWater/)              |  Medium    | O(n^2)  |  O(n)  |
  | [Contains Duplicates](/src/containsDuplicate/)                         |  Easy      | O(nlogn)|  O(1)  |
  | [Factorial Trailing Zeros](/src/factorialTrailingZeroes/)              |  Easy      |  O(n)   |  O(1)  |
