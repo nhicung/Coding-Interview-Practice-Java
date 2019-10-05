@@ -37,7 +37,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Roman to Integer](/src/RomanToInteger)                                |  Easy      |  O(n)   |  O(n)  |
  | [Rotate Image](/src/rotateImage/) *                                    |  Medium      | O(n^2)|  O(1)  |
  | [Rotate Array](/src/rotateArray/) *                                    |  Easy      |  O(n*k) |  O(k)  | 
- | [Set Matrix Zeroes](/src/SetMatrixZeroes/)                             |  Medium    |  O(n*m) |  O(n+m)|
+ | [Set Matrix Zeroes](/src/setMatrixZeroes/SetMatrixZeroes)              |  Medium    |  O(n*m) |  O(n+m)|
  | [Single Number](/src/singleNumber/)                                    |  Easy      |  O(n)   |  O(n)  |
  | [Sort By Parity](/src/sortByParity/)                                   |  Easy      |  O(n)   |  O(n)  |
  | [SqrtX](/src/sqrtX/) *                                                 |  Easy      |  O(1)   |        |
