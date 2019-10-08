@@ -11,7 +11,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Construct Binary Tree from Inorder and Preorder Traversal](/src/constructBinaryTreeFromInorderAndPreorderTraversal/)|Medium|O(n^2)|O(n)  |
  | [Container With Most Water](/src/containerWithMostWater/)              |  Medium    | O(n^2)  |  O(n)  |
  | [Contains Duplicates](/src/containsDuplicate/)                         |  Easy      | O(nlogn)|  O(1)  |
- | [Different Ways To Add Parentheses](/src/DifferentWaysToAddParentheses.java/)|  Medium     | O(n)|  O(1)  |
+ | [Different Ways To Add Parentheses](/src/differentWaysToAddParentheses/DifferentWaysToAddParentheses.java/)|  Medium     | O(n)|  O(1)  |
  | [Factorial Trailing Zeros](/src/factorialTrailingZeroes/)              |  Easy      |  O(n)   |  O(1)  |
  | [Fibonacci](/src/Fibonacci/)                                           |  Easy      |  O(n)   |  O(n)  |
  | [Group Anagram](/src/groupAnagram/)                                    |  Medium    |  O(nk)  |O(nklogk)|
