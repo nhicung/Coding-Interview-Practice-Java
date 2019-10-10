@@ -13,7 +13,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Contains Duplicates](/src/containsDuplicate/)                         |  Easy      | O(nlogn)|  O(1)  |
  | [Decode Ways](/src/decodeWays/DecodeWays.java)                         |  Medium    | O(n).   |  O(n)  |
  | [Different Ways To Add Parentheses](/src/differentWaysToAddParentheses/DifferentWaysToAddParentheses.java/)|  Medium     | O(n)|  O(1)  |
- | [Excel Sheet Column Number](/src/excelSheetColumnNumber/excelSheetColumnNumber.java) |  Easy      |  O(n)   |  O(1)  |
+ | [Excel Sheet Column Number](/src/excelSheetColumnNumber/excelSheetColumnNumber.java/) |  Easy      |  O(n)   |  O(1)  |
  | [Factorial Trailing Zeros](/src/factorialTrailingZeroes/)              |  Easy      |  O(n)   |  O(1)  |
  | [Fibonacci](/src/Fibonacci/)                                           |  Easy      |  O(n)   |  O(n)  |
  | [Group Anagram](/src/groupAnagram/)                                    |  Medium    |  O(nk)  |O(nklogk)|
