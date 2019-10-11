@@ -23,6 +23,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Longest Palindromic Substring](/src/longestPalindromicSubstring/)     |  Medium    |  O(n^2) |  O(1)  |
  | [Linked List Cycle](/src/linkedListCycle/)                             |  Easy      |  O(n)   |  O(n)  |
  | [Maximum Depth Of Binary Tree](/src/maximumDepthOfBinaryTree/)         |  Easy      |  O(n)   |  O(n)  |
+ | [Maximum Product Subarray](/src/maximumProductSubarray/MaximumProductSubarray.java)|  Medium   |  O(n)   |  O(n)  |
  | [Merge 2 Sorted Lists](/src/MergeTwoSortedLists/)                      |  Easy      |  O(n)   |  O(n)  |
  | [Move Zeros](/src/MoveZero/)                                           |  Easy      |  O(n)   |  O(n)  |    
  | [Mumbling](/src/Mumbling/)*                                            |  Easy      |  O(n^2) |  O(n^2)|
