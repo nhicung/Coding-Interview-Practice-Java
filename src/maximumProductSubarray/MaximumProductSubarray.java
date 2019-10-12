@@ -21,5 +21,23 @@ DESCRIPTION:
 package maximumProductSubarray;
 
 public class MaximumProductSubarray {
-
+	public int maxProduct (int[]nums) {
+		int result = Integer.MIN_VALUE;
+		int curMin = 0; 
+		int curMax = 0;
+		for (int i = 0; i < nums.length; i++) {
+			if (nums[i] < 0) {
+				int temp = curMin; 
+				curMin = curMax; 
+				curMax = temp;
+			}
+		}
+		
+		for (int i = 0; i < nums.length; i++) {
+			curMin = Math.min(nums[i], curMin*nums[i]);
+			curMax = Math.max(nums[i], curMax*nums[i]);
+			result = Math.max(result, curMax);
+		}
+		return result;
+	}
 }
