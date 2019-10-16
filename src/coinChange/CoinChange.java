@@ -13,6 +13,8 @@ DESCRIPTION:
 	Output: -1
 
 SOLUTION
+	Runtime: 15 ms, faster than 46.04% of Java online submissions for Coin Change.
+	Memory Usage: 35.8 MB, less than 98.82% of Java online submissions for Coin Change.
  */
 package coinChange;
 
