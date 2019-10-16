@@ -8,6 +8,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Binary Tree Inorder Traversal](/src/binaryTreeInorderTraversal/)      |  Medium    |  O(n)   |  O(n)  |
  | [Binary Tree Level Order Traversal](/src/binaryTreeLevelOrderTraversal/)|  Medium   |  O(n)   |  O(n)  |
  | [Clone Graph](/src/cloneGraph/)                                        |  Medium   |  O(n)   |  O(n)  |
+ | [Coins Change](/src/coinChange/CoinChange.java)                        |  Medium   |  O(S*n)   |  O(S)  |
  | [Construct Binary Tree from Inorder and Preorder Traversal](/src/constructBinaryTreeFromInorderAndPreorderTraversal/)|Medium|O(n^2)|O(n)  |
  | [Container With Most Water](/src/containerWithMostWater/)              |  Medium    | O(n^2)  |  O(n)  |
  | [Contains Duplicates](/src/containsDuplicate/)                         |  Easy      | O(nlogn)|  O(1)  |
