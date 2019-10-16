@@ -16,6 +16,25 @@ SOLUTION
  */
 package coinChange;
 
-public class CoinChange {
+import java.util.Arrays;
 
+public class CoinChange {
+	public int coinChange (int[] coins, int amount) {
+		int max = amount + 1;
+		int [] cache = new int[max];
+		Arrays.fill(cache, max);
+		cache[0] = 0;
+		
+		for (int i = 1; i < cache.length; i ++) {
+			for (int j = 0; j < coins.length; j++) {
+				if (coins[j] <= i) {
+					cache[i] = Math.min(cache[i], 1+ cache[i-coins[j]]);
+				}
+			}
+		}
+		if (cache[amount] > amount) {
+			cache[amount] = -1;
+		}
+		return cache[amount];
+	}
 }
