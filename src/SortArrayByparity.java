@@ -1,6 +1,6 @@
 
 
-public class SortArrayByparity {
+public class SortArrayByParity {
 	public int[] sortArrayByParity(int[] A) {
 		int[] anArray = new int[A.length];
 		int c = 0;
