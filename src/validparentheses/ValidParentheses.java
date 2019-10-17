@@ -1,4 +1,4 @@
-package valid.parentheses;
+package validparentheses;
 
 public class ValidParentheses {
 	public boolean isValid(String s) {

@@ -14,7 +14,7 @@
  * */
 
 
-package merge.two.sorted.lists;
+package mergetwosortedlists;
 
 public class mergeTwoSortedLists {
 	public class ListNode {

@@ -1,4 +1,4 @@
-package rotate.array;
+package rotatearray;
 
 public class RotateArray {
 	public void rotate(int[] nums, int k) {

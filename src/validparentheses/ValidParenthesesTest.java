@@ -1,10 +1,10 @@
-package merge.two.sorted.lists;
+package validparentheses;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class mergeTwoSortedListsTest {
+class ValidParenthesesTest {
 
 	@Test
 	void test() {

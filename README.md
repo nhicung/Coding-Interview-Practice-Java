@@ -26,7 +26,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Longest Substring Without Repeating Characters](/src/LongestSubstringWithoutRepeatingCharacters.java/)|  Medium    |  O(n) |  O(min(m,n))  |
  | [Maximum Depth Of Binary Tree](/src/MaximumDepthOfBinaryTree.java/)    |  Easy      |  O(n)   |  O(n)  |
  | [Maximum Product Subarray](/src/MaximumProductSubarray.java/)          |  Medium   |  O(n)   |  O(1)  |
- | [Merge 2 Sorted Lists](/src/merge.two.sorted.lists/)                   |  Easy      |  O(n)   |  O(n)  |
+ | [Merge 2 Sorted Lists](/src/mergetwosortedlists/)                   |  Easy      |  O(n)   |  O(n)  |
  | [Move Zeros](/src/MoveZero.java/)                                           |  Easy      |  O(n)   |  O(n)  |    
  | [Mumbling](/src/mumbling/)*                                            |  Easy      |  O(n^2) |  O(n^2)|
  | [Odd Even Linked List](/src/OddEvenLinkedList.java/)                   |  Medium    |  O(n)   |  O(1)  |
@@ -36,14 +36,14 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Power Of Three](/src/PowerOfOne.java/)                                |  Easy      |         |  O(1)  |
  | [Product Of Array Except Self](/src/ProductOfArrayExceptSelf.java/)    |  Medium    |  O(n)   |  O(n)  |
  | [Reverse Integer](/src/ReverseInteger.java/)                           |  Easy      | O(logx) |  O(1)  |
- | [Reverse Linked List - Iteration](/src/reverse.linkedlist/IterationWay.java/)|  Easy      |  O(n)   |  O(1)  |
- | [Reverse Linked List - Recursion](/src/reverse.linkedlist/RecursionWay.java/)|  Easy      |  O(n)   |  O(n)  |
+ | [Reverse Linked List - Iteration](/src/reverselinkedlist/IterationWay.java/)|  Easy      |  O(n)   |  O(1)  |
+ | [Reverse Linked List - Recursion](/src/reverselinkedlist/RecursionWay.java/)|  Easy      |  O(n)   |  O(n)  |
  | [Reverse Linked List 2](/src/ReverseLinkedList2.java/)                 |  Medium    |  O(n)   |  O(1)  |
  | [Reverse String](/src/ReverseString.java)                              |  Easy      |  O(n)   |  O(1)  |
  | [Robot Return to Origin](/src/RobotReturnToOrigin.java/)               |  Easy      |  O(n)   |  O(1)  |
  | [Roman to Integer](/src/RomanToInteger.java/)                          |  Easy      |  O(n)   |  O(n)  |
  | [Rotate Image](/src/rotateImage/) *                                    |  Medium      | O(n^2)|  O(1)  |
- | [Rotate Array](/src/rotate.array/) *                                   |  Easy      |  O(n*k) |  O(k)  | 
+ | [Rotate Array](/src/rotatearray/) *                                   |  Easy      |  O(n*k) |  O(k)  | 
  | [Set Matrix Zeroes](/src/SetMatrixZeroes.java/)         				  |  Medium    |  O(n*m) |  O(n+m)|
  | [Single Number](/src/SingleNumber.java/)                               |  Easy      |  O(n)   |  O(n)  |
  | [Sort By Parity](/src/SortByParity.java/)                              |  Easy      |  O(n)   |  O(n)  |
@@ -52,7 +52,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Two Sum](/src/TwoSum.java/)                                           |  Easy      |  O(n)   |  O(n)  |
  | [Valid Anagram](/src/ValidAnagram.java/) *                             |  Easy      | O(nlogn)|  O(1)  |
  | [Valid Binary Tree](/src/ValidBinaryTree.java/) *                      |  Easy      | O(nlogn)|  O(1)  |
- | [Valid Parentheses](/src/validParentheses/) *                          |  Easy      | O(n^2)  | O(n^2) |
+ | [Valid Parentheses](/src/validparentheses/) *                          |  Easy      | O(n^2)  | O(n^2) |
  | [Word Break (Brute Force)](/src/wordBreak1/)                           |  Medium    | O(n^2)  |    |
  | [Word Break (Dynamic Programming)](/src/wordBreak2/)                   |  Medium    |   | |
  
