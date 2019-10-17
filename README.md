@@ -23,7 +23,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Invert Tree](/src/InvertTree.java)                                    |  Easy      | O(n)    | O(1)   |
  | [Linked List Cycle](/src/LinkedListCycle.java/)                        |  Easy      |  O(n)   |  O(n)  |
  | [Longest Palindromic Substring](/src/LongestPalindromicSubstring.java/)|  Medium    |  O(n^2) |  O(1)  |
- | [Longest Substring Without Repeating Characters](/src/LongestSubstringWithoutRepeatingCharacters.java/)|  Medium    |  O(n) |  O(min(m,n))  |
+ | [Longest Substring Without Repeating Characters](/src/LongestSubstringWithoutRepeatingCharacter.java/)|  Medium    |  O(n) |  O(min(m,n))  |
  | [Maximum Depth Of Binary Tree](/src/MaximumDepthOfBinaryTree.java/)    |  Easy      |  O(n)   |  O(n)  |
  | [Maximum Product Subarray](/src/MaximumProductSubarray.java/)          |  Medium   |  O(n)   |  O(1)  |
  | [Merge 2 Sorted Lists](/src/mergetwosortedlists/)                   |  Easy      |  O(n)   |  O(n)  |
