@@ -36,8 +36,8 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Power Of Three](/src/PowerOfOne.java/)                                |  Easy      |         |  O(1)  |
  | [Product Of Array Except Self](/src/ProductOfArrayExceptSelf.java/)    |  Medium    |  O(n)   |  O(n)  |
  | [Reverse Integer](/src/ReverseInteger.java/)                           |  Easy      | O(logx) |  O(1)  |
- | [Reverse Linked List - Iteration](/src/reverse.linked.list/IterationWay.java)|  Easy      |  O(n)   |  O(1)  |
- | [Reverse Linked List - Recursion](/src/reverse.linked.list/RecursionWay.java)|  Easy      |  O(n)   |  O(n)  |
+ | [Reverse Linked List - Iteration](/src/reverse.linkedlist/IterationWay.java)|  Easy      |  O(n)   |  O(1)  |
+ | [Reverse Linked List - Recursion](/src/reverse.linkedlist/RecursionWay.java)|  Easy      |  O(n)   |  O(n)  |
  | [Reverse Linked List 2](/src/ReverseLinkedList2.java/)                 |  Medium    |  O(n)   |  O(1)  |
  | [Reverse String](/src/ReverseString.java)                              |  Easy      |  O(n)   |  O(1)  |
  | [Robot Return to Origin](/src/RobotReturnToOrigin.java/)               |  Easy      |  O(n)   |  O(1)  |
