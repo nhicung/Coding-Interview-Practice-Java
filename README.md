@@ -17,7 +17,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Excel Sheet Column Number](/src/ExcelSheetColumnNumber.java/)         |  Easy      |  O(n)   |  O(1)  |
  | [Factorial Trailing Zeros](/src/FactorialTrailingZeroes.java/)         |  Easy      |  O(n)   |  O(1)  |
  | [Fibonacci](/src/fibonacci/)                                           |  Easy      |  O(n)   |  O(n)  |
- | [Group Anagram](/src/GroupAnagram.java/)                               |  Medium    |  O(nk)  |O(nklogk)|
+ | [Group Anagram](/src/GroupAnagrams.java/)                               |  Medium    |  O(nk)  |O(nklogk)|
  | [Happy Number](/src/HappyNumber.java/)*                                |  Easy      |         |        |
  | [Intersection Of 2 Arrays](/src/IntersectionOfTwoArrays.java/)         |  Easy      | O(m+n)  | O(m+n) |
  | [Invert Tree](/src/InvertTree.java)                                    |  Easy      | O(n)    | O(1)   |
