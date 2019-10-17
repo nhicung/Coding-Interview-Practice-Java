@@ -33,7 +33,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [One Away](/src/oneaway/)                                              |  Easy      |  O(n)   |  O(1)  |
  | [Palindrome Number](/src/PalindromeNumber.java/)*                      |  Easy      |O(log10(n))| O(1)  |
  | [Plus One](/src/PlusOne.java/)                                         |  Easy      |  O(n)   |  O(n)  |
- | [Power Of Three](/src/PowerOfOne.java/)                                |  Easy      |         |  O(1)  |
+ | [Power Of Three](/src/PowerOfThree.java/)                                |  Easy      |         |  O(1)  |
  | [Product Of Array Except Self](/src/ProductOfArrayExceptSelf.java/)    |  Medium    |  O(n)   |  O(n)  |
  | [Reverse Integer](/src/ReverseInteger.java/)                           |  Easy      | O(logx) |  O(1)  |
  | [Reverse Linked List - Iteration](/src/reverselinkedlist/IterationWay.java)|  Easy      |  O(n)   |  O(1)  |
