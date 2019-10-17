@@ -46,7 +46,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Rotate Array](/src/rotatearray/) *                                   |  Easy      |  O(n*k) |  O(k)  | 
  | [Set Matrix Zeroes](/src/SetMatrixZeroes.java/)         				  |  Medium    |  O(n*m) |  O(n+m)|
  | [Single Number](/src/SingleNumber.java/)                               |  Easy      |  O(n)   |  O(n)  |
- | [Sort By Parity](/src/SortByParity.java/)                              |  Easy      |  O(n)   |  O(n)  |
+ | [Sort By Parity](/src/SortArrayByParity.java/)                              |  Easy      |  O(n)   |  O(n)  |
  | [SqrtX](/src/SqrtX.java/) *                                            |  Easy      |  O(1)   |        |
  | [Symmetric Tree](/src/SymmetricTree.java/)                             |  Easy      |  O(n)   |  O(n)  |         
  | [Two Sum](/src/TwoSum.java/)                                           |  Easy      |  O(n)   |  O(n)  |
