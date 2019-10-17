@@ -27,7 +27,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Maximum Depth Of Binary Tree](/src/MaximumDepthOfBinaryTree.java/)    |  Easy      |  O(n)   |  O(n)  |
  | [Maximum Product Subarray](/src/MaximumProductSubarray.java/)          |  Medium   |  O(n)   |  O(1)  |
  | [Merge 2 Sorted Lists](/src/mergetwosortedlists/)                   |  Easy      |  O(n)   |  O(n)  |
- | [Move Zeros](/src/MoveZero.java/)                                           |  Easy      |  O(n)   |  O(n)  |    
+ | [Move Zeros](/src/MoveZero.java/)                                      |  Easy      |  O(n)   |  O(n)  |    
  | [Mumbling](/src/mumbling/)*                                            |  Easy      |  O(n^2) |  O(n^2)|
  | [Odd Even Linked List](/src/OddEvenLinkedList.java/)                   |  Medium    |  O(n)   |  O(1)  |
  | [One Away](/src/oneaway/)                                              |  Easy      |  O(n)   |  O(1)  |

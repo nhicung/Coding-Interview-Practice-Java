@@ -1,4 +1,4 @@
-package mumbling;
+package amumbling;
 
 public class Mumbling {
 	public static String accum(String s) {
