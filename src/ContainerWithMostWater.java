@@ -16,7 +16,7 @@ SOLUTION:
 
 
 
-public class ContainWithMostWater {
+public class ContainerWithMostWater {
 	public int maxArea(int[] height) {
 		int maxVol = 0; 
 		int vol = 0; 

@@ -4,51 +4,54 @@ A set of coding problems from leetcode.com and codewars.com:
 
  | Problems                                                               | Difficulty | RunTime | Memory |
  | ---------------------------------------------------------              | ---------- | ------- | ------ |
- | [Best Time To Sell Stock](/src/bestTimeToSellStock/)                   |  Easy      |  O(n)   |  O(1)  |
- | [Binary Tree Inorder Traversal](/src/binaryTreeInorderTraversal/)      |  Medium    |  O(n)   |  O(n)  |
- | [Binary Tree Level Order Traversal](/src/binaryTreeLevelOrderTraversal/)|  Medium   |  O(n)   |  O(n)  |
- | [Clone Graph](/src/cloneGraph/)                                        |  Medium   |  O(n)   |  O(n)  |
- | [Coins Change](/src/coinChange/CoinChange.java)                        |  Medium   |  O(S*n)   |  O(S)  |
- | [Construct Binary Tree from Inorder and Preorder Traversal](/src/constructBinaryTreeFromInorderAndPreorderTraversal/)|Medium|O(n^2)|O(n)  |
- | [Container With Most Water](/src/containerWithMostWater/)              |  Medium    | O(n^2)  |  O(n)  |
- | [Contains Duplicates](/src/containsDuplicate/)                         |  Easy      | O(nlogn)|  O(1)  |
- | [Decode Ways](/src/decodeWays/DecodeWays.java)                         |  Medium    | O(n).   |  O(n)  |
- | [Different Ways To Add Parentheses](/src/differentWaysToAddParentheses/DifferentWaysToAddParentheses.java/)|  Medium     | O(n)|  O(1)  |
- | [Excel Sheet Column Number](/src/excelSheetColumnNumber/ExcelSheetColumnNumber.java/) |  Easy      |  O(n)   |  O(1)  |
- | [Factorial Trailing Zeros](/src/factorialTrailingZeroes/)              |  Easy      |  O(n)   |  O(1)  |
- | [Fibonacci](/src/Fibonacci/)                                           |  Easy      |  O(n)   |  O(n)  |
- | [Group Anagram](/src/groupAnagram/)                                    |  Medium    |  O(nk)  |O(nklogk)|
- | [Happy Number](/src/happyNumber)*                                      |  Easy      |         |        |
- | [Intersection Of 2 Arrays](/src/intersectionOfTwoArrays)               |  Easy      | O(m+n)  | O(m+n) |
- | [Invert Tree](/src/invertTree)                                         |  Easy      | O(n)    | O(1)   |
- | [Longest Palindromic Substring](/src/longestPalindromicSubstring/)     |  Medium    |  O(n^2) |  O(1)  |
- | [Linked List Cycle](/src/linkedListCycle/)                             |  Easy      |  O(n)   |  O(n)  |
- | [Maximum Depth Of Binary Tree](/src/maximumDepthOfBinaryTree/)         |  Easy      |  O(n)   |  O(n)  |
- | [Maximum Product Subarray](/src/maximumProductSubarray/MaximumProductSubarray.java)|  Medium   |  O(n)   |  O(1)  |
- | [Merge 2 Sorted Lists](/src/MergeTwoSortedLists/)                      |  Easy      |  O(n)   |  O(n)  |
- | [Move Zeros](/src/MoveZero/)                                           |  Easy      |  O(n)   |  O(n)  |    
- | [Mumbling](/src/Mumbling/)*                                            |  Easy      |  O(n^2) |  O(n^2)|
- | [Odd Even Linked List](/src/oddEvenLinkedList/)                        |  Medium    |  O(n)   |  O(1)  |
- | [One Away](/src/OneAway/)                                              |  Easy      |  O(n)   |  O(1)  |
- | [Palindrome Number](/src/palindromeNumber/)*                           |  Easy      |O(log10(n))| O(1)  |
- | [Plus One](/src/plusOne/)                                              |  Easy      |  O(n)   |  O(n)  |
- | [Power Of Three](/src/powerOfOne/)                                     |  Easy      |         |  O(1)  |
- | [Reverse Integer](/src/reverseInteger/)                                |  Easy      | O(logx) |  O(1)  |
+ | [Best Time To Sell Stock](/src/BestTimeToBuyAndSellStock.java/)        |  Easy      |  O(n)   |  O(1)  |
+ | [Binary Tree Inorder Traversal](/src/BinaryTreeInorderTraversal.java/) |  Medium    |  O(n)   |  O(n)  |
+ | [Binary Tree Level Order Traversal](/src/BinaryTreeLevelOrderTraversal.java/)|  Medium   |  O(n)   |  O(n)  |
+ | [Clone Graph](/src/CloneGraph.java/)                                        |  Medium   |  O(n)   |  O(n)  |
+ | [Coins Change](/src/CoinChange.java)                        			  |  Medium   |  O(S*n)   |  O(S)  |
+ | [Construct Binary Tree from Inorder and Preorder Traversal](/src/ConstructBinaryTreeFromInorderAndPreorderTraversal.java/)|Medium|O(n^2)|O(n)  |
+ | [Container With Most Water](/src/ContainerWithMostWater.java/)         |  Medium    | O(n^2)  |  O(n)  |
+ | [Contains Duplicates](/src/ContainsDuplicate.java/)                         |  Easy      | O(nlogn)|  O(1)  |
+ | [Decode Ways](/src/DecodeWays.java)                         			  |  Medium    | O(n).   |  O(n)  |
+ | [Different Ways To Add Parentheses](/src/DifferentWaysToAddParentheses.java/)|  Medium     | O(n)|  O(1)  |
+ | [Excel Sheet Column Number](/src/ExcelSheetColumnNumber.java/)         |  Easy      |  O(n)   |  O(1)  |
+ | [Factorial Trailing Zeros](/src/FactorialTrailingZeroes.java/)         |  Easy      |  O(n)   |  O(1)  |
+ | [Fibonacci](/src/fibonacci/)                                           |  Easy      |  O(n)   |  O(n)  |
+ | [Group Anagram](/src/GroupAnagram.java/)                               |  Medium    |  O(nk)  |O(nklogk)|
+ | [Happy Number](/src/HappyNumber.java/)*                                |  Easy      |         |        |
+ | [Intersection Of 2 Arrays](/src/IntersectionOfTwoArrays.java/)         |  Easy      | O(m+n)  | O(m+n) |
+ | [Invert Tree](/src/InvertTree.java)                                    |  Easy      | O(n)    | O(1)   |
+ | [Linked List Cycle](/src/LinkedListCycle.java/)                        |  Easy      |  O(n)   |  O(n)  |
+ | [Longest Palindromic Substring](/src/LongestPalindromicSubstring.java/)|  Medium    |  O(n^2) |  O(1)  |
+ | [Longest Substring Without Repeating Characters](/src/LongestSubstringWithoutRepeatingCharacters.java/)|  Medium    |  O(n) |  O(min(m,n))  |
+ | [Maximum Depth Of Binary Tree](/src/MaximumDepthOfBinaryTree.java/)    |  Easy      |  O(n)   |  O(n)  |
+ | [Maximum Product Subarray](/src/MaximumProductSubarray.java/)          |  Medium   |  O(n)   |  O(1)  |
+ | [Merge 2 Sorted Lists](/src/merge.two.sorted.lists/)                   |  Easy      |  O(n)   |  O(n)  |
+ | [Move Zeros](/src/MoveZero.java/)                                           |  Easy      |  O(n)   |  O(n)  |    
+ | [Mumbling](/src/mumbling/)*                                            |  Easy      |  O(n^2) |  O(n^2)|
+ | [Odd Even Linked List](/src/OddEvenLinkedList.java/)                   |  Medium    |  O(n)   |  O(1)  |
+ | [One Away](/src/oneaway/)                                              |  Easy      |  O(n)   |  O(1)  |
+ | [Palindrome Number](/src/PalindromeNumber.java/)*                      |  Easy      |O(log10(n))| O(1)  |
+ | [Plus One](/src/PlusOne.java/)                                         |  Easy      |  O(n)   |  O(n)  |
+ | [Power Of Three](/src/PowerOfOne.java/)                                |  Easy      |         |  O(1)  |
+ | [Product Of Array Except Self](/src/ProductOfArrayExceptSelf.java/)    |  Medium    |  O(n)   |  O(n)  |
+ | [Reverse Integer](/src/ReverseInteger.java/)                           |  Easy      | O(logx) |  O(1)  |
  | [Reverse Linked List - Iteration](/src/reverseLinkedList/IterationWay.java)|  Easy      |  O(n)   |  O(1)  |
  | [Reverse Linked List - Recursion](/src/reverseLinkedList/RecursionWay.java)|  Easy      |  O(n)   |  O(n)  |
- | [Reverse Linked List 2](/src/reverseLinkedList2/)                      |  Medium    |  O(n)   |  O(1)  |
- | [Reverse String](/src/reverseString)                                   |  Easy      |  O(n)   |  O(1)  |
- | [Robot Return to Origin](/src/robotReturnToOrigin/)                    |  Easy      |  O(n)   |  O(1)  |
- | [Roman to Integer](/src/RomanToInteger)                                |  Easy      |  O(n)   |  O(n)  |
+ | [Reverse Linked List 2](/src/ReverseLinkedList2.java/)                 |  Medium    |  O(n)   |  O(1)  |
+ | [Reverse String](/src/ReverseString.java)                              |  Easy      |  O(n)   |  O(1)  |
+ | [Robot Return to Origin](/src/RobotReturnToOrigin.java/)               |  Easy      |  O(n)   |  O(1)  |
+ | [Roman to Integer](/src/RomanToInteger.java/)                          |  Easy      |  O(n)   |  O(n)  |
  | [Rotate Image](/src/rotateImage/) *                                    |  Medium      | O(n^2)|  O(1)  |
- | [Rotate Array](/src/rotateArray/) *                                    |  Easy      |  O(n*k) |  O(k)  | 
- | [Set Matrix Zeroes](/src/setMatrixZeroes/SetMatrixZeroes.java)         |  Medium    |  O(n*m) |  O(n+m)|
- | [Single Number](/src/singleNumber/)                                    |  Easy      |  O(n)   |  O(n)  |
- | [Sort By Parity](/src/sortByParity/)                                   |  Easy      |  O(n)   |  O(n)  |
- | [SqrtX](/src/sqrtX/) *                                                 |  Easy      |  O(1)   |        |
- | [Symmetric Tree](/src/symmetricTree/)                                  |  Easy      |  O(n)   |  O(n)  |         
- | [Two Sum](/src/twoSum/)                                                |  Easy      |  O(n)   |  O(n)  |
- | [Valid Anagram](/src/validAnagram/) *                                  |  Easy      | O(nlogn)|  O(1)  |
+ | [Rotate Array](/src/rotate.array/) *                                   |  Easy      |  O(n*k) |  O(k)  | 
+ | [Set Matrix Zeroes](/src/SetMatrixZeroes.java/)         				  |  Medium    |  O(n*m) |  O(n+m)|
+ | [Single Number](/src/SingleNumber.java/)                               |  Easy      |  O(n)   |  O(n)  |
+ | [Sort By Parity](/src/SortByParity.java/)                              |  Easy      |  O(n)   |  O(n)  |
+ | [SqrtX](/src/SqrtX.java/) *                                            |  Easy      |  O(1)   |        |
+ | [Symmetric Tree](/src/SymmetricTree.java/)                             |  Easy      |  O(n)   |  O(n)  |         
+ | [Two Sum](/src/TwoSum.java/)                                           |  Easy      |  O(n)   |  O(n)  |
+ | [Valid Anagram](/src/ValidAnagram.java/) *                             |  Easy      | O(nlogn)|  O(1)  |
+ | [Valid Binary Tree](/src/ValidBinaryTree.java/) *                      |  Easy      | O(nlogn)|  O(1)  |
  | [Valid Parentheses](/src/validParentheses/) *                          |  Easy      | O(n^2)  | O(n^2) |
  | [Word Break (Brute Force)](/src/wordBreak1/)                           |  Medium    | O(n^2)  |    |
  | [Word Break (Dynamic Programming)](/src/wordBreak2/)                   |  Medium    |   | |
