@@ -23,7 +23,7 @@ MY SOLUTION:
 	Memory Usage: 36.2 MB, less than 100.00% of Java online submissions for Binary Tree Level Order Traversal.
  */
 
-package binaryTreeLevelOrderTraversal;
+
 
 import java.util.*;
 

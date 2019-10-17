@@ -21,7 +21,7 @@ MY SOLUTION:
  */
 
 
-package binaryTreeInorderTraversal;
+
 
 import java.util.ArrayList;
 import java.util.List;

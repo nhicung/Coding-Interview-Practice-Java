@@ -23,7 +23,7 @@
 	Memory Usage: 35.8 MB, less than 100.00% of Java online submissions for Best Time to Buy and Sell Stock.
  */
 
-package bestTimeToBuyAndSellStock;
+
 
 public class BestTimeToBuyAndSellStock {
 	public int maxProfit(int[] prices) {
