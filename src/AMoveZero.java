@@ -14,11 +14,10 @@ DESCRIPTION
 MY SOLUTION
 	Runtime: 0 ms, faster than 100.00% of Java online submissions for Move Zeroes.
 	Memory Usage: 38.1 MB, less than 82.14% of Java online submissions for Move Zeroes.
-
  */
 
 
-public class MoveZero {
+public class AMoveZero {
 	public void moveZeroes(int[] nums) {
 		/*
 		 * int a = nums.length-1; int count = 0; for (int i = 0; i <nums.length; i++){
