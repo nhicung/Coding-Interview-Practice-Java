@@ -1,4 +1,4 @@
-package oaneaway;
+package oneaway;
 
 import static org.junit.Assert.*;
 
