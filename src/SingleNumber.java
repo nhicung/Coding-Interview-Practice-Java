@@ -3,7 +3,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class ASingleNumber {
+public class SingleNumber {
 	public int singleNumber(int[] nums) {
 		Map<Integer, Integer> map = new HashMap<Integer, Integer>();
 		int result = 0;

@@ -17,7 +17,7 @@ MY SOLUTION
  */
 
 
-public class AMoveZero {
+public class MoveZero {
 	public void moveZeroes(int[] nums) {
 		/*
 		 * int a = nums.length-1; int count = 0; for (int i = 0; i <nums.length; i++){

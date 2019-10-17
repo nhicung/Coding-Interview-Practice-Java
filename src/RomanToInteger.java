@@ -52,7 +52,7 @@ MY SOLUTION:
 
 
 
-public class ARomanToInteger {
+public class RomanToInteger {
 	public int romanToInt(String s) {
 		int result = 0;
 		int i = 0;
