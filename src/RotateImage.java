@@ -41,6 +41,8 @@ DESCRIPTION:
 	  [16, 7,10,11]
 	]
 SOLUTION:
+	Runtime: 0 ms, faster than 100.00% of Java online submissions for Rotate Image.
+	Memory Usage: 35.9 MB, less than 100.00% of Java online submissions for Rotate Image.
  */
 public class RotateImage {
 	public void rotate(int[][]matrix) {
