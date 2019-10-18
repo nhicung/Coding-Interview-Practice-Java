@@ -42,7 +42,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Reverse String](/src/ReverseString.java)                              |  Easy      |  O(n)   |  O(1)  |
  | [Robot Return to Origin](/src/RobotReturnToOrigin.java/)               |  Easy      |  O(n)   |  O(1)  |
  | [Roman to Integer](/src/RomanToInteger.java/)                          |  Easy      |  O(n)   |  O(n)  |
- | [Rotate Image](/src/rotateImage/) *                                    |  Medium      | O(n^2)|  O(1)  |
+ | [Rotate Image](/src/RotateImage/)                                      |  Medium      | O(n^2)|  O(1)  |
  | [Rotate Array](/src/rotatearray/) *                                   |  Easy      |  O(n*k) |  O(k)  | 
  | [Set Matrix Zeroes](/src/SetMatrixZeroes.java/)         				  |  Medium    |  O(n*m) |  O(n+m)|
  | [Single Number](/src/SingleNumber.java/)                               |  Easy      |  O(n)   |  O(n)  |
