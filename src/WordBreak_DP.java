@@ -28,7 +28,7 @@ DESCRIPTION:
 		
  */
 
-public class wordBreak {
+public class WordBreak_DP {
 	public boolean wordBreak(String s, List<String> wordDict) {
 		boolean[] cache = new boolean[s.length()+1];
 		cache[0] = true;

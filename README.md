@@ -54,8 +54,8 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Valid Anagram](/src/ValidAnagram.java/) *                             |  Easy      | O(nlogn)|  O(1)  |
  | [Valid Binary Tree](/src/ValidBinaryTree.java/) *                      |  Easy      | O(nlogn)|  O(1)  |
  | [Valid Parentheses](/src/validparentheses/) *                          |  Easy      | O(n^2)  | O(n^2) |
- | [Word Break (Brute Force)](/src/wordBreak1/)                           |  Medium    | O(n^2)  |    |
- | [Word Break (Dynamic Programming)](/src/wordBreak2/)                   |  Medium    |   | |
+ | [Word Break (Recursion)](/src/wordBreak1/)                             |  Medium    | O(n^2)  |    |
+ | [Word Break (Dynamic Programming)](/src/wordBreak_DP.java/)            |  Medium    |   O(n^2)| O(n)|
  
  \* Possibly needs improvement for better performance.
  
