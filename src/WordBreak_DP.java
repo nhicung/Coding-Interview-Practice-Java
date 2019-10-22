@@ -25,7 +25,8 @@ DESCRIPTION:
 	Output: false
 	
 	SOLUTION:
-		
+	Runtime: 4 ms, faster than 78.64% of Java online submissions for Word Break.
+	Memory Usage: 36 MB, less than 93.48% of Java online submissions for Word Break.	
  */
 
 public class WordBreak_DP {
