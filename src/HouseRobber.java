@@ -25,13 +25,22 @@ SOLUTION:
 public class HouseRobber {
 
 	public int rob(int[] nums) {
-		int[] cache = new int[nums.length];
+		
+		// check out 2 special case: when nums does not have any value and when nums has 1 value
 		if (nums.length == 0) {
 			return 0;
 		}
 		if (nums.length == 1) {
 			return nums[0];
 		}
+		
+		// make an int array to keep track of the distinct ways to rob the houses
+		// the array has the same length as nums and starting with 0, following with the max value to between the first two house.
+		// go through for loop and update each value in the array by comparing the value right before it and 
+		// the sum of value at the same index in nums + the value 2 position before it in array cache. 
+		// Put the bigger value in to cache. 
+		// The last int of array cache is the number we need to find.
+		int[] cache = new int[nums.length];
 		cache[0] = 0;
 		cache[1] = Math.max(nums[0], nums[1]);
 		
