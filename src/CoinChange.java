@@ -23,16 +23,17 @@ import java.util.Arrays;
 public class CoinChange {
 	public int coinChange (int[] coins, int amount) {
 		// create an array to keep track of the minimum number of coins needed for 0 money till 
-		//the amount of money needed (0 -> amount); initially fill the array with amount+1 because 
+		// the amount of money needed (0 -> amount); initially fill the array with amount+1 because 
 		// this is the amount of money that is sure more than needed and will help update the min later
-		// (to fill into the array.
+		// to fill into the array.
 		int max = amount + 1;
 		int [] cache = new int[max];
 		Arrays.fill(cache, max);
 		cache[0] = 0;
 		
-		//go through nested for loop (the cache array and the coins array
-		//
+		//go through nested for loop (the cache array and the coins array).
+		// Fill in the array cache as we go through the loop and add in the minimum value based on the 
+		// minimum value of previous indexes of array cache (when the coins is less than the amount asked).
 		for (int i = 1; i < cache.length; i ++) {
 			for (int j = 0; j < coins.length; j++) {
 				if (coins[j] <= i) {
@@ -40,9 +41,11 @@ public class CoinChange {
 				}
 			}
 		}
+		// eliminate the case when the last value in the cache is more than the amount of money asked
 		if (cache[amount] > amount) {
 			cache[amount] = -1;
 		}
+		// return the last value in cache
 		return cache[amount];
 	}
 }
