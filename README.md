@@ -24,6 +24,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Intersection Of 2 Arrays](/src/IntersectionOfTwoArrays.java/)         |  Easy      | O(m+n)  | O(m+n) |
  | [Invert Tree](/src/InvertTree.java)                                    |  Easy      | O(n)    | O(1)   |
  | [Linked List Cycle](/src/LinkedListCycle.java/)                        |  Easy      |  O(n)   |  O(n)  |
+ | [Longest Increasing Subsequence](/src/LongestIncreasingSubsequence.java/)|  Medium    |  O(n^2) |  O(n)  |
  | [Longest Palindromic Substring](/src/LongestPalindromicSubstring.java/)|  Medium    |  O(n^2) |  O(1)  |
  | [Longest Substring Without Repeating Characters](/src/LongestSubstringWithoutRepeatingCharacter.java/)|  Medium    |  O(n) |  O(min(m,n))  |
  | [Maximum Depth Of Binary Tree](/src/MaximumDepthOfBinaryTree.java/)    |  Easy      |  O(n)   |  O(n)  |
