@@ -33,9 +33,14 @@ SOLUTION:
  */
 public class NonOverlappingIntervals {
 	public int eraseOverlapIntervals(int[][] intervals) {
+		// null case
 		if (intervals.length == 0) {
 			return 0;
 		}
+		// sort the array based on the second index of the inner array in increasing order
+		// check each inner array, only count the one that has value of its first index less or equals to
+		// the its previous' second index's value.
+		// return the length - that total count
 		int count = 1;
 		Arrays.sort(intervals, (a,b) -> (a[1] -b[1]));
 		int end = intervals[0][1];
