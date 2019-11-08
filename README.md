@@ -55,6 +55,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [SqrtX](/src/SqrtX.java/) *                                            |  Easy      |  O(1)   |        |
  | [Symmetric Tree](/src/SymmetricTree.java/)                             |  Easy      |  O(n)   |  O(n)  |         
  | [Two Sum](/src/TwoSum.java/)                                           |  Easy      |  O(n)   |  O(n)  |
+ | [Unique Path](/src/UniquePath.java/)                                   |  Medium    |  O(n^2) |  O(n)  |
  | [Valid Anagram](/src/ValidAnagram.java/) *                             |  Easy      | O(nlogn)|  O(1)  |
  | [Valid Binary Tree](/src/ValidBinaryTree.java/) *                      |  Easy      | O(nlogn)|  O(1)  |
  | [Valid Parentheses](/src/validparentheses/) *                          |  Easy      | O(n^2)  | O(n^2) |
