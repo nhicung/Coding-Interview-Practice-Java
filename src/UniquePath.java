@@ -21,7 +21,8 @@ DESCRIPTION:
 	Output: 28
 	
 SOLUTION:
-	
+	Runtime: 0 ms, faster than 100.00% of Java online submissions for Unique Paths.
+	Memory Usage: 33 MB, less than 5.10% of Java online submissions for Unique Paths.
  */
 
 public class UniquePath {
