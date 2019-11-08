@@ -22,12 +22,15 @@ SOLUTION:
  */
 public class HouseRobber2 {
 	public int rob(int[] nums) {
+		// null case
 		if (nums.length == 0) {
 			return 0;
 		}
 		if (nums.length == 1) {
 			return nums[0];
 		}
+		
+		// making 2 arrays for 2 different cases 
 		int[] case1 = new int[nums.length];
 		int[] case2 = new int[nums.length];
 		
@@ -38,6 +41,7 @@ public class HouseRobber2 {
 			case2[i] = nums[i];
 		}
 		
+		// making array to store the the max amount of money robbed for case 1
 		int[] cache1 = new int[nums.length];
 		
 		cache1[0] = 1; 
@@ -46,6 +50,7 @@ public class HouseRobber2 {
 			cache1[i] = Math.max(cache1[i-1],  case1[i-2] + case1[i]);
 		}
 		
+		// making array to store the max amount of money robbed for case 2
 		int[] cache2 = new int[nums.length];
 		cache2[0] = 1; 
 		cache2[1] = Math.max(case2[0], case2[1]);
@@ -53,6 +58,7 @@ public class HouseRobber2 {
 			cache2[i] = Math.max(cache2[i-1],  case2[i-2] + case2[i]);
 		}
 		
+		// return the max amount of money between the two cases
 		return Math.max(cache1[cache1.length-1], cache2[cache2.length-1]);
 	}
 }
