@@ -24,31 +24,40 @@ SOLUTION:
 	Memory Usage: 36 MB, less than 74.53% of Java online submissions for Decode Ways.
  */
 
-
-
 public class DecodeWays {
 	public int numDecoding(String s) {
-		int[] cache = new int[s.length()];
+		
+		//null case
 		if (s.length() == 0) {
 			return 0;
 		}
-		cache[0] =1;
+		
+		// create an array to store the total number of ways that the string can be
+		// decoded as, starting at the first index with value 1
+		int[] cache = new int[s.length()];
+		cache[0] = 1;
+		
+		// if the first index is 0, next one is 0, else it's 1
 		if (s.charAt(0) == '0') {
 			cache[1] = 0;
 		} else {
 			cache[1] = 1;
 		}
 		
-		for (int i = 2; i < s.length(); i++){
-			int s1 = Integer.parseInt(s.substring(i-1,i));
-			int s2 = Integer.parseInt(s.substring(i-2,i));
+		// go through for loop and update the current index's value based on the 1-digit number and  
+		// the 2-digit number before it in the given string
+		for (int i = 2; i < s.length(); i++) {
+			int s1 = Integer.parseInt(s.substring(i - 1, i));
+			int s2 = Integer.parseInt(s.substring(i - 2, i));
 			if (s1 > 0 && s1 < 10) {
-				cache[i] += cache[i-1];
+				cache[i] += cache[i - 1];
 			}
 			if (s2 > 9 && s2 < 27) {
-				cache[i] += cache[i-2];
+				cache[i] += cache[i - 2];
 			}
 		}
+		
+		// return the last value in the array
 		return cache[s.length()];
 	}
 
