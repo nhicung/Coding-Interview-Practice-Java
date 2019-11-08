@@ -31,8 +31,14 @@ DESCRIPTION:
 
 public class WordBreak_DP {
 	public boolean wordBreak(String s, List<String> wordDict) {
+		// make an boolean array to check if the string make up the word up to the length given
+		// true as it is, false as it isn't
 		boolean[] cache = new boolean[s.length()+1];
+		
+		// initialize first index to be true
 		cache[0] = true;
+		
+		// nested for loop to check if the string creates a word
 		for ( int i = 1; i < cache.length; i++) {
 			for (int j = 0; j < i; j++) {
 				if (cache[j] && wordDict.contains(s.substring(j,i))) {
@@ -41,6 +47,7 @@ public class WordBreak_DP {
 				}
 			}
 		}
+		//return the value of last index of the array
 		return cache[s.length()];
 	}
 }
