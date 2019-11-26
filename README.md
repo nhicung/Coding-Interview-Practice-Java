@@ -13,7 +13,8 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Construct Binary Tree from Inorder and Preorder Traversal](/src/ConstructBinaryTreeFromInorderAndPreorderTraversal.java/)|Medium|O(n^2)|O(n)  |
  | [Container With Most Water](/src/ContainerWithMostWater.java/)         |  Medium    | O(n^2)  |  O(n)  |
  | [Contains Duplicates](/src/ContainsDuplicate.java/)                    |  Easy      | O(nlogn)|  O(1)  |
- | [Decode Ways](/src/DecodeWays.java)                         			  |  Medium    | O(n).   |  O(n)  |
+ | [Convert Sorted Arrayto Binary Tree](/src/ConvertSortedArraytoBinaryTree.java)  |  Easy    | O(n)   |  O(n)  |
+ | [Decode Ways](/src/DecodeWays.java)                         			  |  Medium    | O(n)   |  O(n)  |
  | [Different Ways To Add Parentheses](/src/DifferentWaysToAddParentheses.java/)|  Medium     | O(n)|  O(1)  |
  | [Excel Sheet Column Number](/src/ExcelSheetColumnNumber.java/)         |  Easy      |  O(n)   |  O(1)  |
  | [Factorial Trailing Zeros](/src/FactorialTrailingZeroes.java/)         |  Easy      |  O(n)   |  O(1)  |
