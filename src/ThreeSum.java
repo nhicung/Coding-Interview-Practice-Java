@@ -22,12 +22,20 @@ Memory Usage: 48.2 MB, less than 81.62% of Java online submissions for 3Sum.
 
  */
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class ThreeSum {
 	public List<List<Integer>> threeSum(int[] nums) {
+		// sort the given array and create a list of lists to store the result
         Arrays.sort(nums);
         List<List<Integer>> result = new ArrayList<List<Integer>>();
+        // make a for loop to check each value of the array, up to the second last value
+        // check the sum of the value right after the checked value and the last value of the list to, 
+        // if the sum of that total and and the current checked value is 0 then we add them three to the a list
+        // and update result. If not, keep going and narrow down the range by updating the last value to the left
+        // and the value next to current checked vallue to the right
         for (int i = 0; i < nums.length-2; i++){
             if (i == 0 || (i > 0 && nums[i] != nums[i-1])){
                 int lo = i+1;
@@ -36,6 +44,7 @@ public class ThreeSum {
                 while (lo < hi){
                     if (sum == nums[lo] + nums[hi]){
                         result.add(Arrays.asList(nums[lo],nums[hi],nums[i]));
+                        // eliminate cases when there are duplicated values
                         while (lo < hi && nums[lo] == nums[lo+1]){
                             lo ++;
                         }
@@ -60,19 +69,6 @@ public class ThreeSum {
                 }    
             }
         }
-        char c1 = 'A';
-        char c2 = 'B';
-        String s = "AAABBBBB"; 
-        int x = 0; 
-        int y = 0; 
-        for ( int i = 0; i < s.length(); i++){
-            if (s.charAt(i) == c1 ){
-                x++;
-            } else if ( s.charAt(i) == c2){
-                y++;
-            }
-        }
-        System.out.println(x==y);
         return result;
     }
 }

@@ -35,6 +35,7 @@ public class ConvertSortedArraytoBinaryTree {
 		return sortedArray(nums, 0, nums.length - 1);
 	}
 
+	// Using knowledge of in-order position of binary tree to convert the list
 	TreeNode sortedArray(int[] nums, int start, int end) {
 
 		if (start == end) {
