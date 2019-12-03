@@ -20,6 +20,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Excel Sheet Column Number](/src/ExcelSheetColumnNumber.java/)         |  Easy      |  O(n)   |  O(1)  |
  | [Factorial Trailing Zeros](/src/FactorialTrailingZeroes.java/)         |  Easy      |  O(n)   |  O(1)  |
  | [Fibonacci](/src/fibonacci/)                                           |  Easy      |  O(n)   |  O(n)  |
+ | [First Unique Character In A String](/src/FirstUniqueCharacterInaAString.java/)|  Easy      |  O(n)   |  O(n)  |
  | [Group Anagram](/src/GroupAnagrams.java/)                              |  Medium    |  O(nk)  |O(nklogk)|
  | [Happy Number](/src/HappyNumber.java/)*                                |  Easy      |         |        |
  | [House Robber](/src/HouseRobber.java/)                                 |  Easy      |  O(n)   |  O(n)  |
