@@ -52,15 +52,19 @@ public class SpiralMatrix {
 			}
 			endC--;
 			
-			for (int i = endC; i>0; i--) {
-				result.add(matrix[endR][i]);
+			if (startR <= endR) {
+				for (int i = endC; i>0; i--) {
+					result.add(matrix[endR][i]);
+				}
+				endR--;
 			}
-			endR--;
 			
-			for (int i = endR; i> 0; i++) {
-				result.add(matrix[i][startC]);
+			if (startC <= endC) {
+				for (int i = endR; i> 0; i++) {
+					result.add(matrix[i][startC]);
+				}
+				startC++;
 			}
-			startC++;
 		}
 		
 		return result;
