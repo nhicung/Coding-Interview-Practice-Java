@@ -55,6 +55,7 @@ A set of coding problems from leetcode.com and codewars.com:
  | [Set Matrix Zeroes](/src/SetMatrixZeroes.java/)         				  |  Medium    |  O(n*m) |  O(n+m)|
  | [Single Number](/src/SingleNumber.java/)                               |  Easy      |  O(n)   |  O(n)  |
  | [Sort By Parity](/src/SortArrayByParity.java/)                         |  Easy      |  O(n)   |  O(n)  |
+ | [Spiral Matrix](/src/SpiralMatrix.java/)                         	  |  Medium    |  O(n)   |  O(n)  | 
  | [SqrtX](/src/SqrtX.java/) *                                            |  Easy      |  O(1)   |        |
  | [Symmetric Tree](/src/SymmetricTree.java/)                             |  Easy      |  O(n)   |  O(n)  |         
  | [Three Sum](/src/ThreeSum.java/)                                       |  Medium    |  O(n^2)   |  O(n)  |
