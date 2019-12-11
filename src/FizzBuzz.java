@@ -29,7 +29,8 @@ DESCRIPTION:
 	    "FizzBuzz"
 	]
 SOLUTION:
-
+Runtime: 1 ms, faster than 99.81% of Java online submissions for Fizz Buzz.
+Memory Usage: 37.3 MB, less than 100.00% of Java online submissions for Fizz Buzz.
  */
 public class FizzBuzz {
 	public List<String> fizzBuzz(int n){
