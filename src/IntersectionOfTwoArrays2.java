@@ -30,5 +30,25 @@ public class IntersectionOfTwoArrays2 {
 		Arrays.sort(nums2);
 		
 		List<Integer> result = new ArrayList<Integer>();
+		
+		int i = 0; 
+		int j = 0; 
+		
+		while ( i < nums1.length && j < nums2.length) {
+			if (nums1[i] < nums2[j]) {
+				i++;
+			} else if (nums1[i] > nums2[j]) {
+				j++;
+			} else {
+				result.add(nums1[i]);
+				i++;
+				j++;
+			}
+		}
+		int[] finRes = new int[nums1.length];
+		for (int h = 0; h < result.size(); h++) {
+			finRes[h] = result.get(h);
+		}
+		return finRes;
 	}
 }
