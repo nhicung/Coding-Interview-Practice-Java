@@ -45,7 +45,7 @@ public class IntersectionOfTwoArrays2 {
 				j++;
 			}
 		}
-		int[] finRes = new int[nums1.length];
+		int[] finRes = new int[result.size()];
 		for (int h = 0; h < result.size(); h++) {
 			finRes[h] = result.get(h);
 		}
