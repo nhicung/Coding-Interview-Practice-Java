@@ -23,6 +23,8 @@ What if nums1's size is small compared to nums2's size? Which algorithm is bette
 What if elements of nums2 are stored on disk, and the memory is limited such that you cannot load all elements into the memory at once?
 
 SOLUTION:
+Runtime: 2 ms, faster than 91.01% of Java online submissions for Intersection of Two Arrays II.
+Memory Usage: 37 MB, less than 83.87% of Java online submissions for Intersection of Two Arrays II.
  */
 public class IntersectionOfTwoArrays2 {
 	public int[] intersect(int[] nums1, int[] nums2) {
