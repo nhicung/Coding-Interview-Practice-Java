@@ -12,11 +12,11 @@ DESCRIPTION:
 	return [0, 1].
 	
 SOLUTION:
-
+Runtime: 3 ms, faster than 50.20% of Java online submissions for Two Sum.
+Memory Usage: 37.3 MB, less than 98.95% of Java online submissions for Two Sum.
  */
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 public class TwoSum {
 	public int[] twoSum(int[] nums, int target) {
