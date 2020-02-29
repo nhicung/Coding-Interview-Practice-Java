@@ -1,4 +1,4 @@
-package fibonacci;
+package Fibonacci;
 
 import static org.junit.jupiter.api.Assertions.*;
 
