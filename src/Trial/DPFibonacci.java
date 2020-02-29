@@ -13,7 +13,7 @@ MY SOLUTION:
  */
 
 
-package Fibonacci;
+package Trial;
 
 public class DPFibonacci {
 	public int fib(int N) {

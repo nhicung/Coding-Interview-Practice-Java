@@ -32,7 +32,7 @@ Runtime: 9 ms, faster than 25.08% of Java online submissions for Fibonacci Numbe
 Memory Usage: 33.1 MB, less than 5.18% of Java online submissions for Fibonacci Number.
 */
 
-package Fibonacci;
+package Trial;
 
 public class RecursiveFibonacci {
     public int fib(int N) {
