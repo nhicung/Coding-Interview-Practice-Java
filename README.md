@@ -1,5 +1,6 @@
 # Java-Coding-Practice
 
+## Problem List
 A set of coding problems from leetcode.com and codewars.com:
 
  | Problems                                                               | Difficulty | RunTime | Memory |
@@ -75,5 +76,6 @@ Resources:
 [LeetCode](https://leetcode.com) |
 [Codewars](https://www.codewars.com)
 
-
+## License
+This project is licensed under the MIT License - see the (LICENSE) file for details
 
